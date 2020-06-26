@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f83209bb-c5d6-4965-b06c-2e1623eefebd" name="Default Changelist" comment="Queue generation update&#10;Omit and Prio for array input" />
+    <list default="true" id="f83209bb-c5d6-4965-b06c-2e1623eefebd" name="Default Changelist" comment="Queue generation update&#10;Omit and Prio for array input">
+      <change beforePath="$PROJECT_DIR$/conf/conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/conf/conf.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -758,7 +760,7 @@
       <workItem from="1591083058873" duration="36659000" />
       <workItem from="1591870395924" duration="84775000" />
       <workItem from="1593095827822" duration="466000" />
-      <workItem from="1593157259623" duration="1125000" />
+      <workItem from="1593157259623" duration="1750000" />
     </task>
     <task id="LOCAL-00013" summary="Merged happiness to main funct">
       <created>1587460030483</created>

@@ -1,0 +1,191 @@
+{"level":"info","message":"Create new client: 0","timestamp":"2020-06-26T08:20:20.269Z"}
+{"level":"info","message":"Create new client: 1","timestamp":"2020-06-26T08:20:22.145Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-26T08:20:23.921Z"}
+{"level":"info","message":"Create new client: 2","timestamp":"2020-06-26T08:20:25.469Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-26T08:20:25.524Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-26T08:20:25.537Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-26T08:20:25.540Z"}
+{"level":"info","message":"Create new client: 3","timestamp":"2020-06-26T08:20:28.682Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-26T08:20:30.524Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-26T08:20:32.375Z"}
+{"level":"info","message":"Client disconnect: 1","timestamp":"2020-06-26T08:20:47.914Z"}
+{"level":"info","message":"Create new client: 0","timestamp":"2020-06-26T08:22:00.224Z"}
+{"level":"info","message":"Create new client: 1","timestamp":"2020-06-26T08:22:00.250Z"}
+{"level":"info","message":"Create new client: 2","timestamp":"2020-06-26T08:22:00.263Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-26T08:22:03.531Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-26T08:22:03.539Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-26T08:22:03.547Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-26T08:39:53.975Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-26T08:40:42.574Z"}
+{"level":"info","message":"Create new client: 0","timestamp":"2020-06-26T13:01:28.884Z"}
+{"level":"info","message":"Create new client: 1","timestamp":"2020-06-26T13:01:28.892Z"}
+{"level":"info","message":"Create new client: 2","timestamp":"2020-06-26T13:01:30.341Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-26T13:01:32.266Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-26T13:01:32.268Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-26T13:01:33.125Z"}
+{"level":"info","message":"Create new client: 0","timestamp":"2020-06-26T13:03:10.223Z"}
+{"level":"info","message":"Create new client: 0","timestamp":"2020-06-26T13:03:14.243Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-26T13:03:14.249Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-26T13:03:17.873Z"}
+{"level":"info","message":"Create new client: 1","timestamp":"2020-06-26T13:03:17.874Z"}
+{"level":"info","message":"Create new client: 2","timestamp":"2020-06-26T13:03:19.319Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-26T13:03:22.104Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-26T13:03:23.212Z"}
+{"error":{"code":141,"message":"Invalid function: \"fa_home_image\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"fa_home_image\"' }","timestamp":"2020-06-26T13:03:43.782Z"}
+{"code":141,"message":"Invalid function: \"fa_home_image\"","level":"error","timestamp":"2020-06-26T13:03:43.783Z"}
+{"level":"info","message":"Create new client: 0","timestamp":"2020-06-26T13:05:24.282Z"}
+{"level":"info","message":"Create new client: 1","timestamp":"2020-06-26T13:05:24.290Z"}
+{"level":"info","message":"Create new client: 2","timestamp":"2020-06-26T13:05:26.243Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-26T13:05:27.887Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-26T13:05:27.889Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-26T13:05:29.316Z"}
+{"level":"info","message":"Create new client: 0","timestamp":"2020-06-26T13:05:57.332Z"}
+{"level":"info","message":"Create new client: 1","timestamp":"2020-06-26T13:05:57.340Z"}
+{"level":"info","message":"Create new client: 2","timestamp":"2020-06-26T13:05:57.351Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-26T13:06:00.885Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-26T13:06:00.886Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-26T13:06:00.887Z"}
+{"level":"info","message":"Create new client: 0","timestamp":"2020-06-26T13:07:23.221Z"}
+{"level":"info","message":"Create new client: 1","timestamp":"2020-06-26T13:07:23.230Z"}
+{"level":"info","message":"Create new client: 2","timestamp":"2020-06-26T13:07:23.240Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-26T13:07:27.263Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-26T13:07:27.265Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-26T13:07:27.266Z"}
+{"level":"info","message":"Create new client: 0","timestamp":"2020-06-26T13:08:08.284Z"}
+{"level":"info","message":"Create new client: 1","timestamp":"2020-06-26T13:08:10.211Z"}
+{"level":"info","message":"Create new client: 2","timestamp":"2020-06-26T13:08:10.222Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-26T13:08:12.108Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-26T13:08:12.912Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-26T13:08:12.914Z"}
+{"error":{"code":141,"message":"Invalid function: \"fa_home_image\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"fa_home_image\"' }","timestamp":"2020-06-26T13:08:14.575Z"}
+{"code":141,"message":"Invalid function: \"fa_home_image\"","level":"error","timestamp":"2020-06-26T13:08:14.575Z"}
+{"level":"info","message":"Create new client: 0","timestamp":"2020-06-26T13:08:59.312Z"}
+{"level":"info","message":"Create new client: 1","timestamp":"2020-06-26T13:08:59.320Z"}
+{"level":"info","message":"Create new client: 2","timestamp":"2020-06-26T13:08:59.331Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-26T13:09:02.881Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-26T13:09:02.883Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-26T13:09:02.884Z"}
+{"functionName":"fa_home_image","error":{"code":141,"message":{}},"params":{},"level":"error","message":"Failed running cloud function fa_home_image for user undefined with:\n  Input: {}\n  Error: {\"code\":141,\"message\":{}}","timestamp":"2020-06-26T13:09:05.647Z"}
+{"error":{"code":141,"message":{}},"level":"error","message":"Error generating response. ParseError {\n  code: 141,\n  message: TypeError: response.success is not a function\n    at axios.get.then.response (/Users/davidrecheni/Desktop/Repositories/Workshop/Server/pg-app-i369sswplfvwwaj2y2hjxz0ycuy4q9/cloud/functions/fa_home_image.js:9:33)\n    at <anonymous>\n    at process._tickDomainCallback (internal/process/next_tick.js:228:7) }","timestamp":"2020-06-26T13:09:05.647Z"}
+{"code":141,"message":"TypeError: response.success is not a function\n    at axios.get.then.response (/Users/davidrecheni/Desktop/Repositories/Workshop/Server/pg-app-i369sswplfvwwaj2y2hjxz0ycuy4q9/cloud/functions/fa_home_image.js:9:33)\n    at <anonymous>\n    at process._tickDomainCallback (internal/process/next_tick.js:228:7)","level":"error","timestamp":"2020-06-26T13:09:05.648Z"}
+{"level":"info","message":"Create new client: 0","timestamp":"2020-06-26T13:09:48.243Z"}
+{"level":"info","message":"Create new client: 1","timestamp":"2020-06-26T13:09:48.250Z"}
+{"level":"info","message":"Create new client: 2","timestamp":"2020-06-26T13:09:48.262Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-26T13:09:52.227Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-26T13:09:52.229Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-26T13:09:52.229Z"}
+{"functionName":"fa_home_image","error":{"code":141,"message":{}},"params":{},"level":"error","message":"Failed running cloud function fa_home_image for user undefined with:\n  Input: {}\n  Error: {\"code\":141,\"message\":{}}","timestamp":"2020-06-26T13:10:03.514Z"}
+{"error":{"code":141,"message":{}},"level":"error","message":"Error generating response. ParseError {\n  code: 141,\n  message: TypeError: response.success is not a function\n    at axios.get.then.response (/Users/davidrecheni/Desktop/Repositories/Workshop/Server/pg-app-i369sswplfvwwaj2y2hjxz0ycuy4q9/cloud/functions/fa_home_image.js:9:26)\n    at <anonymous>\n    at process._tickDomainCallback (internal/process/next_tick.js:228:7) }","timestamp":"2020-06-26T13:10:03.515Z"}
+{"code":141,"message":"TypeError: response.success is not a function\n    at axios.get.then.response (/Users/davidrecheni/Desktop/Repositories/Workshop/Server/pg-app-i369sswplfvwwaj2y2hjxz0ycuy4q9/cloud/functions/fa_home_image.js:9:26)\n    at <anonymous>\n    at process._tickDomainCallback (internal/process/next_tick.js:228:7)","level":"error","timestamp":"2020-06-26T13:10:03.515Z"}
+{"level":"info","message":"Create new client: 0","timestamp":"2020-06-26T13:10:24.363Z"}
+{"level":"info","message":"Create new client: 1","timestamp":"2020-06-26T13:10:24.372Z"}
+{"level":"info","message":"Create new client: 2","timestamp":"2020-06-26T13:10:24.382Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-26T13:10:28.335Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-26T13:10:28.337Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-26T13:10:28.338Z"}
+{"functionName":"fa_home_image","error":{"code":141,"message":{}},"params":{},"level":"error","message":"Failed running cloud function fa_home_image for user undefined with:\n  Input: {}\n  Error: {\"code\":141,\"message\":{}}","timestamp":"2020-06-26T13:10:29.201Z"}
+{"error":{"code":141,"message":{}},"level":"error","message":"Error generating response. ParseError {\n  code: 141,\n  message: TypeError: response.success is not a function\n    at axios.get.then.response (/Users/davidrecheni/Desktop/Repositories/Workshop/Server/pg-app-i369sswplfvwwaj2y2hjxz0ycuy4q9/cloud/functions/fa_home_image.js:9:26)\n    at <anonymous>\n    at process._tickDomainCallback (internal/process/next_tick.js:228:7) }","timestamp":"2020-06-26T13:10:29.202Z"}
+{"code":141,"message":"TypeError: response.success is not a function\n    at axios.get.then.response (/Users/davidrecheni/Desktop/Repositories/Workshop/Server/pg-app-i369sswplfvwwaj2y2hjxz0ycuy4q9/cloud/functions/fa_home_image.js:9:26)\n    at <anonymous>\n    at process._tickDomainCallback (internal/process/next_tick.js:228:7)","level":"error","timestamp":"2020-06-26T13:10:29.203Z"}
+{"level":"info","message":"Create new client: 0","timestamp":"2020-06-26T13:11:18.313Z"}
+{"level":"info","message":"Create new client: 1","timestamp":"2020-06-26T13:11:18.321Z"}
+{"level":"info","message":"Create new client: 2","timestamp":"2020-06-26T13:11:18.332Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-26T13:11:22.257Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-26T13:11:22.258Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-26T13:11:22.259Z"}
+{"level":"info","message":"Create new client: 0","timestamp":"2020-06-26T13:12:29.240Z"}
+{"level":"info","message":"Create new client: 1","timestamp":"2020-06-26T13:12:30.139Z"}
+{"level":"info","message":"Create new client: 2","timestamp":"2020-06-26T13:12:31.202Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-26T13:12:32.191Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-26T13:12:32.930Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-26T13:12:32.932Z"}
+{"functionName":"fa_home_image","error":{"code":141,"message":{}},"params":{},"level":"error","message":"Failed running cloud function fa_home_image for user undefined with:\n  Input: {}\n  Error: {\"code\":141,\"message\":{}}","timestamp":"2020-06-26T13:12:37.730Z"}
+{"error":{"code":141,"message":{}},"level":"error","message":"Error generating response. ParseError {\n  code: 141,\n  message: RangeError: Maximum call stack size exceeded\n    at Uint8Array.toString (<anonymous>)\n    at encode (/Users/davidrecheni/Desktop/Repositories/Workshop/Server/pg-app-i369sswplfvwwaj2y2hjxz0ycuy4q9/node_modules/parse-server/node_modules/parse/lib/node/encode.js:79:16)\n    at encode (/Users/davidrecheni/Desktop/Repositories/Workshop/Server/pg-app-i369sswplfvwwaj2y2hjxz0ycuy4q9/node_modules/parse-server/node_modules/parse/lib/node/encode.js:98:19)\n    at encode (/Users/davidrecheni/Desktop/Repositories/Workshop/Server/pg-app-i369sswplfvwwaj2y2hjxz0ycuy4q9/node_modules/parse-server/node_modules/parse/lib/node/encode.js:98:19)\n    at encode (/Users/davidrecheni/Desktop/Repositories/Workshop/Server/pg-app-i369sswplfvwwaj2y2hjxz0ycuy4q9/node_modules/parse-server/node_modules/parse/lib/node/encode.js:98:19)\n    at encode (/Users/davidrecheni/Desktop/Repositories/Workshop/Server/pg-app-i369sswplfvwwaj2y2hjxz0ycuy4q9/node_modules/parse-server/node_modules/parse/lib/node/encode.js:98:19)\n    at encode (/Users/davidrecheni/Desktop/Repositories/Workshop/Server/pg-app-i369sswplfvwwaj2y2hjxz0ycuy4q9/node_modules/parse-server/node_modules/parse/lib/node/encode.js:98:19)\n    at encode (/Users/davidrecheni/Desktop/Repositories/Workshop/Server/pg-app-i369sswplfvwwaj2y2hjxz0ycuy4q9/node_modules/parse-server/node_modules/parse/lib/node/encode.js:98:19)\n    at encode (/Users/davidrecheni/Desktop/Repositories/Workshop/Server/pg-app-i369sswplfvwwaj2y2hjxz0ycuy4q9/node_modules/parse-server/node_modules/parse/lib/node/encode.js:98:19)\n    at encode (/Users/davidrecheni/Desktop/Repositories/Workshop/Server/pg-app-i369sswplfvwwaj2y2hjxz0ycuy4q9/node_modules/parse-server/node_modules/parse/lib/node/encode.js:98:19) }","timestamp":"2020-06-26T13:12:37.732Z"}
+{"code":141,"message":"RangeError: Maximum call stack size exceeded\n    at Uint8Array.toString (<anonymous>)\n    at encode (/Users/davidrecheni/Desktop/Repositories/Workshop/Server/pg-app-i369sswplfvwwaj2y2hjxz0ycuy4q9/node_modules/parse-server/node_modules/parse/lib/node/encode.js:79:16)\n    at encode (/Users/davidrecheni/Desktop/Repositories/Workshop/Server/pg-app-i369sswplfvwwaj2y2hjxz0ycuy4q9/node_modules/parse-server/node_modules/parse/lib/node/encode.js:98:19)\n    at encode (/Users/davidrecheni/Desktop/Repositories/Workshop/Server/pg-app-i369sswplfvwwaj2y2hjxz0ycuy4q9/node_modules/parse-server/node_modules/parse/lib/node/encode.js:98:19)\n    at encode (/Users/davidrecheni/Desktop/Repositories/Workshop/Server/pg-app-i369sswplfvwwaj2y2hjxz0ycuy4q9/node_modules/parse-server/node_modules/parse/lib/node/encode.js:98:19)\n    at encode (/Users/davidrecheni/Desktop/Repositories/Workshop/Server/pg-app-i369sswplfvwwaj2y2hjxz0ycuy4q9/node_modules/parse-server/node_modules/parse/lib/node/encode.js:98:19)\n    at encode (/Users/davidrecheni/Desktop/Repositories/Workshop/Server/pg-app-i369sswplfvwwaj2y2hjxz0ycuy4q9/node_modules/parse-server/node_modules/parse/lib/node/encode.js:98:19)\n    at encode (/Users/davidrecheni/Desktop/Repositories/Workshop/Server/pg-app-i369sswplfvwwaj2y2hjxz0ycuy4q9/node_modules/parse-server/node_modules/parse/lib/node/encode.js:98:19)\n    at encode (/Users/davidrecheni/Desktop/Repositories/Workshop/Server/pg-app-i369sswplfvwwaj2y2hjxz0ycuy4q9/node_modules/parse-server/node_modules/parse/lib/node/encode.js:98:19)\n    at encode (/Users/davidrecheni/Desktop/Repositories/Workshop/Server/pg-app-i369sswplfvwwaj2y2hjxz0ycuy4q9/node_modules/parse-server/node_modules/parse/lib/node/encode.js:98:19)","level":"error","timestamp":"2020-06-26T13:12:37.736Z"}
+{"level":"info","message":"Create new client: 0","timestamp":"2020-06-26T13:14:05.856Z"}
+{"level":"info","message":"Create new client: 1","timestamp":"2020-06-26T13:14:06.849Z"}
+{"level":"info","message":"Create new client: 2","timestamp":"2020-06-26T13:14:08.319Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-26T13:14:09.130Z"}
+{"functionName":"fa_home_image","error":{"code":141,"message":{}},"params":{},"level":"error","message":"Failed running cloud function fa_home_image for user undefined with:\n  Input: {}\n  Error: {\"code\":141,\"message\":{}}","timestamp":"2020-06-26T13:14:12.125Z"}
+{"error":{"code":141,"message":{}},"level":"error","message":"Error generating response. ParseError {\n  code: 141,\n  message: RangeError: Maximum call stack size exceeded\n    at Uint8Array.toString (<anonymous>)\n    at encode (/Users/davidrecheni/Desktop/Repositories/Workshop/Server/pg-app-i369sswplfvwwaj2y2hjxz0ycuy4q9/node_modules/parse-server/node_modules/parse/lib/node/encode.js:79:16)\n    at encode (/Users/davidrecheni/Desktop/Repositories/Workshop/Server/pg-app-i369sswplfvwwaj2y2hjxz0ycuy4q9/node_modules/parse-server/node_modules/parse/lib/node/encode.js:98:19)\n    at encode (/Users/davidrecheni/Desktop/Repositories/Workshop/Server/pg-app-i369sswplfvwwaj2y2hjxz0ycuy4q9/node_modules/parse-server/node_modules/parse/lib/node/encode.js:98:19)\n    at encode (/Users/davidrecheni/Desktop/Repositories/Workshop/Server/pg-app-i369sswplfvwwaj2y2hjxz0ycuy4q9/node_modules/parse-server/node_modules/parse/lib/node/encode.js:98:19)\n    at encode (/Users/davidrecheni/Desktop/Repositories/Workshop/Server/pg-app-i369sswplfvwwaj2y2hjxz0ycuy4q9/node_modules/parse-server/node_modules/parse/lib/node/encode.js:98:19)\n    at encode (/Users/davidrecheni/Desktop/Repositories/Workshop/Server/pg-app-i369sswplfvwwaj2y2hjxz0ycuy4q9/node_modules/parse-server/node_modules/parse/lib/node/encode.js:98:19)\n    at encode (/Users/davidrecheni/Desktop/Repositories/Workshop/Server/pg-app-i369sswplfvwwaj2y2hjxz0ycuy4q9/node_modules/parse-server/node_modules/parse/lib/node/encode.js:98:19)\n    at encode (/Users/davidrecheni/Desktop/Repositories/Workshop/Server/pg-app-i369sswplfvwwaj2y2hjxz0ycuy4q9/node_modules/parse-server/node_modules/parse/lib/node/encode.js:98:19)\n    at encode (/Users/davidrecheni/Desktop/Repositories/Workshop/Server/pg-app-i369sswplfvwwaj2y2hjxz0ycuy4q9/node_modules/parse-server/node_modules/parse/lib/node/encode.js:98:19) }","timestamp":"2020-06-26T13:14:12.127Z"}
+{"code":141,"message":"RangeError: Maximum call stack size exceeded\n    at Uint8Array.toString (<anonymous>)\n    at encode (/Users/davidrecheni/Desktop/Repositories/Workshop/Server/pg-app-i369sswplfvwwaj2y2hjxz0ycuy4q9/node_modules/parse-server/node_modules/parse/lib/node/encode.js:79:16)\n    at encode (/Users/davidrecheni/Desktop/Repositories/Workshop/Server/pg-app-i369sswplfvwwaj2y2hjxz0ycuy4q9/node_modules/parse-server/node_modules/parse/lib/node/encode.js:98:19)\n    at encode (/Users/davidrecheni/Desktop/Repositories/Workshop/Server/pg-app-i369sswplfvwwaj2y2hjxz0ycuy4q9/node_modules/parse-server/node_modules/parse/lib/node/encode.js:98:19)\n    at encode (/Users/davidrecheni/Desktop/Repositories/Workshop/Server/pg-app-i369sswplfvwwaj2y2hjxz0ycuy4q9/node_modules/parse-server/node_modules/parse/lib/node/encode.js:98:19)\n    at encode (/Users/davidrecheni/Desktop/Repositories/Workshop/Server/pg-app-i369sswplfvwwaj2y2hjxz0ycuy4q9/node_modules/parse-server/node_modules/parse/lib/node/encode.js:98:19)\n    at encode (/Users/davidrecheni/Desktop/Repositories/Workshop/Server/pg-app-i369sswplfvwwaj2y2hjxz0ycuy4q9/node_modules/parse-server/node_modules/parse/lib/node/encode.js:98:19)\n    at encode (/Users/davidrecheni/Desktop/Repositories/Workshop/Server/pg-app-i369sswplfvwwaj2y2hjxz0ycuy4q9/node_modules/parse-server/node_modules/parse/lib/node/encode.js:98:19)\n    at encode (/Users/davidrecheni/Desktop/Repositories/Workshop/Server/pg-app-i369sswplfvwwaj2y2hjxz0ycuy4q9/node_modules/parse-server/node_modules/parse/lib/node/encode.js:98:19)\n    at encode (/Users/davidrecheni/Desktop/Repositories/Workshop/Server/pg-app-i369sswplfvwwaj2y2hjxz0ycuy4q9/node_modules/parse-server/node_modules/parse/lib/node/encode.js:98:19)","level":"error","timestamp":"2020-06-26T13:14:12.131Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-26T13:14:12.140Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-26T13:14:12.141Z"}
+{"level":"info","message":"Create new client: 0","timestamp":"2020-06-26T13:15:25.915Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-26T13:15:29.979Z"}
+{"level":"info","message":"Create new client: 1","timestamp":"2020-06-26T13:15:37.861Z"}
+{"level":"info","message":"Create new client: 2","timestamp":"2020-06-26T13:15:39.341Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-26T13:15:42.130Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-26T13:15:43.175Z"}
+{"level":"info","message":"Create new client: 0","timestamp":"2020-06-26T13:15:57.546Z"}
+{"level":"info","message":"Create new client: 1","timestamp":"2020-06-26T13:15:59.264Z"}
+{"level":"info","message":"Create new client: 2","timestamp":"2020-06-26T13:15:59.916Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-26T13:16:06.261Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-26T13:16:06.273Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-26T13:16:06.277Z"}
+{"level":"info","message":"Create new client: 0","timestamp":"2020-06-26T13:16:07.121Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-26T13:16:12.235Z"}
+{"level":"info","message":"Create new client: 1","timestamp":"2020-06-26T13:16:14.101Z"}
+{"level":"info","message":"Create new client: 2","timestamp":"2020-06-26T13:16:17.859Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-26T13:16:19.128Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-26T13:16:22.983Z"}
+{"level":"info","message":"Create new client: 0","timestamp":"2020-06-26T13:17:00.040Z"}
+{"level":"info","message":"Create new client: 1","timestamp":"2020-06-26T13:17:01.232Z"}
+{"level":"info","message":"Create new client: 2","timestamp":"2020-06-26T13:17:02.123Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-26T13:17:04.194Z"}
+{"functionName":"fa_home_image","params":{},"level":"info","message":"Ran cloud function fa_home_image for user undefined with:\n  Input: {}\n  Result: {\"image\":\"https://randomfox.ca/images/14.jpg\",\"link\":\"https://randomfox.ca/?i=14\"}","timestamp":"2020-06-26T13:17:04.792Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-26T13:17:05.128Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-26T13:17:06.127Z"}
+{"level":"info","message":"Create new client: 0","timestamp":"2020-06-26T13:17:47.177Z"}
+{"level":"info","message":"Create new client: 1","timestamp":"2020-06-26T13:17:49.202Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-26T13:17:51.268Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-26T13:17:53.114Z"}
+{"level":"info","message":"Create new client: 2","timestamp":"2020-06-26T13:17:53.128Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-26T13:17:58.218Z"}
+{"functionName":"fa_home_image","params":{},"level":"info","message":"Ran cloud function fa_home_image for user undefined with:\n  Input: {}\n  Result: {\"image\":\"https://randomfox.ca/images/87.jpg\",\"link\":\"https://randomfox.ca/?i=87\"}","timestamp":"2020-06-26T13:18:36.033Z"}
+{"functionName":"fa_home_image","params":{},"level":"info","message":"Ran cloud function fa_home_image for user undefined with:\n  Input: {}\n  Result: {\"image\":\"https://randomfox.ca/images/36.jpg\",\"link\":\"https://randomfox.ca/?i=36\"}","timestamp":"2020-06-26T13:18:46.152Z"}
+{"functionName":"fa_home_image","params":{},"level":"info","message":"Ran cloud function fa_home_image for user undefined with:\n  Input: {}\n  Result: {\"image\":\"https://randomfox.ca/images/53.jpg\",\"link\":\"https://randomfox.ca/?i=53\"}","timestamp":"2020-06-26T13:19:20.969Z"}
+{"functionName":"fa_home_image","params":{},"level":"info","message":"Ran cloud function fa_home_image for user undefined with:\n  Input: {}\n  Result: {\"image\":\"https://randomfox.ca/images/73.jpg\",\"link\":\"https://randomfox.ca/?i=73\"}","timestamp":"2020-06-26T13:19:47.285Z"}
+{"functionName":"fa_home_image","params":{},"level":"info","message":"Ran cloud function fa_home_image for user undefined with:\n  Input: {}\n  Result: {\"image\":\"https://randomfox.ca/images/104.jpg\",\"link\":\"https://randomfox.ca/?i=104\"}","timestamp":"2020-06-26T13:21:05.414Z"}
+{"functionName":"fa_home_image","params":{},"level":"info","message":"Ran cloud function fa_home_image for user undefined with:\n  Input: {}\n  Result: {\"image\":\"https://randomfox.ca/images/27.jpg\",\"link\":\"https://randomfox.ca/?i=27\"}","timestamp":"2020-06-26T13:21:35.521Z"}
+{"functionName":"fa_home_image","params":{},"level":"info","message":"Ran cloud function fa_home_image for user undefined with:\n  Input: {}\n  Result: {\"image\":\"https://randomfox.ca/images/98.jpg\",\"link\":\"https://randomfox.ca/?i=98\"}","timestamp":"2020-06-26T13:21:52.425Z"}
+{"functionName":"fa_home_image","params":{},"level":"info","message":"Ran cloud function fa_home_image for user undefined with:\n  Input: {}\n  Result: {\"image\":\"https://randomfox.ca/images/81.jpg\",\"link\":\"https://randomfox.ca/?i=81\"}","timestamp":"2020-06-26T13:22:26.415Z"}
+{"functionName":"fa_home_image","params":{},"level":"info","message":"Ran cloud function fa_home_image for user undefined with:\n  Input: {}\n  Result: {\"image\":\"https://randomfox.ca/images/2.jpg\",\"link\":\"https://randomfox.ca/?i=2\"}","timestamp":"2020-06-26T13:22:46.188Z"}
+{"functionName":"fa_home_image","params":{},"level":"info","message":"Ran cloud function fa_home_image for user undefined with:\n  Input: {}\n  Result: {\"image\":\"https://randomfox.ca/images/73.jpg\",\"link\":\"https://randomfox.ca/?i=73\"}","timestamp":"2020-06-26T13:23:34.101Z"}
+{"functionName":"fa_home_image","params":{},"level":"info","message":"Ran cloud function fa_home_image for user undefined with:\n  Input: {}\n  Result: {\"image\":\"https://randomfox.ca/images/106.jpg\",\"link\":\"https://randomfox.ca/?i=106\"}","timestamp":"2020-06-26T13:24:04.823Z"}
+{"functionName":"fa_home_image","params":{},"level":"info","message":"Ran cloud function fa_home_image for user undefined with:\n  Input: {}\n  Result: {\"image\":\"https://randomfox.ca/images/42.jpg\",\"link\":\"https://randomfox.ca/?i=42\"}","timestamp":"2020-06-26T13:24:17.725Z"}
+{"functionName":"fa_home_image","params":{},"level":"info","message":"Ran cloud function fa_home_image for user undefined with:\n  Input: {}\n  Result: {\"image\":\"https://randomfox.ca/images/96.jpg\",\"link\":\"https://randomfox.ca/?i=96\"}","timestamp":"2020-06-26T13:24:35.850Z"}
+{"functionName":"fa_home_image","params":{},"level":"info","message":"Ran cloud function fa_home_image for user undefined with:\n  Input: {}\n  Result: {\"image\":\"https://randomfox.ca/images/98.jpg\",\"link\":\"https://randomfox.ca/?i=98\"}","timestamp":"2020-06-26T13:26:37.300Z"}
+{"functionName":"fa_home_image","params":{},"level":"info","message":"Ran cloud function fa_home_image for user undefined with:\n  Input: {}\n  Result: {\"image\":\"https://randomfox.ca/images/101.jpg\",\"link\":\"https://randomfox.ca/?i=101\"}","timestamp":"2020-06-26T13:26:57.777Z"}
+{"functionName":"fa_home_image","params":{},"level":"info","message":"Ran cloud function fa_home_image for user undefined with:\n  Input: {}\n  Result: {\"image\":\"https://randomfox.ca/images/5.jpg\",\"link\":\"https://randomfox.ca/?i=5\"}","timestamp":"2020-06-26T13:27:22.251Z"}
+{"functionName":"fa_home_image","params":{},"level":"info","message":"Ran cloud function fa_home_image for user undefined with:\n  Input: {}\n  Result: {\"image\":\"https://randomfox.ca/images/94.jpg\",\"link\":\"https://randomfox.ca/?i=94\"}","timestamp":"2020-06-26T13:27:34.070Z"}
+{"functionName":"fa_home_image","params":{},"level":"info","message":"Ran cloud function fa_home_image for user undefined with:\n  Input: {}\n  Result: {\"image\":\"https://randomfox.ca/images/36.jpg\",\"link\":\"https://randomfox.ca/?i=36\"}","timestamp":"2020-06-26T13:27:55.838Z"}
+{"functionName":"fa_home_image","params":{},"level":"info","message":"Ran cloud function fa_home_image for user undefined with:\n  Input: {}\n  Result: {\"image\":\"https://randomfox.ca/images/62.jpg\",\"link\":\"https://randomfox.ca/?i=62\"}","timestamp":"2020-06-26T13:29:09.158Z"}
+{"functionName":"fa_home_image","params":{},"level":"info","message":"Ran cloud function fa_home_image for user undefined with:\n  Input: {}\n  Result: {\"image\":\"https://randomfox.ca/images/55.jpg\",\"link\":\"https://randomfox.ca/?i=55\"}","timestamp":"2020-06-26T13:29:14.075Z"}
+{"functionName":"fa_home_image","params":{},"level":"info","message":"Ran cloud function fa_home_image for user undefined with:\n  Input: {}\n  Result: {\"image\":\"https://randomfox.ca/images/12.jpg\",\"link\":\"https://randomfox.ca/?i=12\"}","timestamp":"2020-06-26T13:29:16.428Z"}
+{"functionName":"fa_home_image","params":{},"level":"info","message":"Ran cloud function fa_home_image for user undefined with:\n  Input: {}\n  Result: {\"image\":\"https://randomfox.ca/images/112.jpg\",\"link\":\"https://randomfox.ca/?i=112\"}","timestamp":"2020-06-26T13:29:18.988Z"}
+{"functionName":"fa_home_image","params":{},"level":"info","message":"Ran cloud function fa_home_image for user undefined with:\n  Input: {}\n  Result: {\"image\":\"https://randomfox.ca/images/51.jpg\",\"link\":\"https://randomfox.ca/?i=51\"}","timestamp":"2020-06-26T13:29:23.909Z"}
+{"functionName":"fa_home_image","params":{},"level":"info","message":"Ran cloud function fa_home_image for user undefined with:\n  Input: {}\n  Result: {\"image\":\"https://randomfox.ca/images/41.jpg\",\"link\":\"https://randomfox.ca/?i=41\"}","timestamp":"2020-06-26T13:29:27.180Z"}
+{"functionName":"fa_home_image","params":{},"level":"info","message":"Ran cloud function fa_home_image for user undefined with:\n  Input: {}\n  Result: {\"image\":\"https://randomfox.ca/images/30.jpg\",\"link\":\"https://randomfox.ca/?i=30\"}","timestamp":"2020-06-26T13:29:57.518Z"}
+{"functionName":"fa_home_image","params":{},"level":"info","message":"Ran cloud function fa_home_image for user undefined with:\n  Input: {}\n  Result: {\"image\":\"https://randomfox.ca/images/110.jpg\",\"link\":\"https://randomfox.ca/?i=110\"}","timestamp":"2020-06-26T13:30:01.228Z"}
+{"functionName":"fa_home_image","params":{},"level":"info","message":"Ran cloud function fa_home_image for user undefined with:\n  Input: {}\n  Result: {\"image\":\"https://randomfox.ca/images/22.jpg\",\"link\":\"https://randomfox.ca/?i=22\"}","timestamp":"2020-06-26T13:30:03.328Z"}
+{"functionName":"fa_home_image","params":{},"level":"info","message":"Ran cloud function fa_home_image for user undefined with:\n  Input: {}\n  Result: {\"image\":\"https://randomfox.ca/images/118.jpg\",\"link\":\"https://randomfox.ca/?i=118\"}","timestamp":"2020-06-26T13:30:17.459Z"}
+{"functionName":"fa_home_image","params":{},"level":"info","message":"Ran cloud function fa_home_image for user undefined with:\n  Input: {}\n  Result: {\"image\":\"https://randomfox.ca/images/36.jpg\",\"link\":\"https://randomfox.ca/?i=36\"}","timestamp":"2020-06-26T13:30:22.275Z"}
+{"functionName":"fa_home_image","params":{},"level":"info","message":"Ran cloud function fa_home_image for user undefined with:\n  Input: {}\n  Result: {\"image\":\"https://randomfox.ca/images/34.jpg\",\"link\":\"https://randomfox.ca/?i=34\"}","timestamp":"2020-06-26T13:30:28.109Z"}
+{"functionName":"fa_home_image","params":{},"level":"info","message":"Ran cloud function fa_home_image for user undefined with:\n  Input: {}\n  Result: {\"image\":\"https://randomfox.ca/images/40.jpg\",\"link\":\"https://randomfox.ca/?i=40\"}","timestamp":"2020-06-26T13:32:24.846Z"}
+{"functionName":"fa_home_image","params":{},"level":"info","message":"Ran cloud function fa_home_image for user undefined with:\n  Input: {}\n  Result: {\"image\":\"https://randomfox.ca/images/88.jpg\",\"link\":\"https://randomfox.ca/?i=88\"}","timestamp":"2020-06-26T13:33:12.360Z"}
+{"functionName":"fa_home_image","params":{},"level":"info","message":"Ran cloud function fa_home_image for user undefined with:\n  Input: {}\n  Result: {\"image\":\"https://randomfox.ca/images/93.jpg\",\"link\":\"https://randomfox.ca/?i=93\"}","timestamp":"2020-06-26T13:33:16.157Z"}
+{"functionName":"fa_home_image","params":{},"level":"info","message":"Ran cloud function fa_home_image for user undefined with:\n  Input: {}\n  Result: {\"image\":\"https://randomfox.ca/images/82.jpg\",\"link\":\"https://randomfox.ca/?i=82\"}","timestamp":"2020-06-26T13:35:58.151Z"}
+{"functionName":"fa_home_image","params":{},"level":"info","message":"Ran cloud function fa_home_image for user undefined with:\n  Input: {}\n  Result: {\"image\":\"https://randomfox.ca/images/48.jpg\",\"link\":\"https://randomfox.ca/?i=48\"}","timestamp":"2020-06-26T13:36:09.518Z"}
+{"functionName":"fa_home_image","params":{},"level":"info","message":"Ran cloud function fa_home_image for user undefined with:\n  Input: {}\n  Result: {\"image\":\"https://randomfox.ca/images/83.jpg\",\"link\":\"https://randomfox.ca/?i=83\"}","timestamp":"2020-06-26T13:36:14.535Z"}
+{"functionName":"fa_home_image","params":{},"level":"info","message":"Ran cloud function fa_home_image for user undefined with:\n  Input: {}\n  Result: {\"image\":\"https://randomfox.ca/images/16.jpg\",\"link\":\"https://randomfox.ca/?i=16\"}","timestamp":"2020-06-26T13:37:22.544Z"}
+{"functionName":"fa_home_image","params":{},"level":"info","message":"Ran cloud function fa_home_image for user undefined with:\n  Input: {}\n  Result: {\"image\":\"https://randomfox.ca/images/58.jpg\",\"link\":\"https://randomfox.ca/?i=58\"}","timestamp":"2020-06-26T13:39:01.448Z"}
+{"functionName":"fa_home_image","params":{},"level":"info","message":"Ran cloud function fa_home_image for user undefined with:\n  Input: {}\n  Result: {\"image\":\"https://randomfox.ca/images/108.jpg\",\"link\":\"https://randomfox.ca/?i=108\"}","timestamp":"2020-06-26T13:39:10.191Z"}
+{"functionName":"fa_home_image","params":{},"level":"info","message":"Ran cloud function fa_home_image for user undefined with:\n  Input: {}\n  Result: {\"image\":\"https://randomfox.ca/images/2.jpg\",\"link\":\"https://randomfox.ca/?i=2\"}","timestamp":"2020-06-26T13:40:39.241Z"}
+{"functionName":"fa_home_image","params":{},"level":"info","message":"Ran cloud function fa_home_image for user undefined with:\n  Input: {}\n  Result: {\"image\":\"https://randomfox.ca/images/26.jpg\",\"link\":\"https://randomfox.ca/?i=26\"}","timestamp":"2020-06-26T13:41:37.721Z"}
+{"functionName":"fa_home_image","params":{},"level":"info","message":"Ran cloud function fa_home_image for user undefined with:\n  Input: {}\n  Result: {\"image\":\"https://randomfox.ca/images/91.jpg\",\"link\":\"https://randomfox.ca/?i=91\"}","timestamp":"2020-06-26T14:06:13.315Z"}
+{"functionName":"fa_home_image","params":{},"level":"info","message":"Ran cloud function fa_home_image for user undefined with:\n  Input: {}\n  Result: {\"image\":\"https://randomfox.ca/images/39.jpg\",\"link\":\"https://randomfox.ca/?i=39\"}","timestamp":"2020-06-26T14:06:22.026Z"}
+{"functionName":"fa_home_image","params":{},"level":"info","message":"Ran cloud function fa_home_image for user undefined with:\n  Input: {}\n  Result: {\"image\":\"https://randomfox.ca/images/106.jpg\",\"link\":\"https://randomfox.ca/?i=106\"}","timestamp":"2020-06-26T14:06:30.724Z"}
+{"functionName":"fa_home_image","params":{},"level":"info","message":"Ran cloud function fa_home_image for user undefined with:\n  Input: {}\n  Result: {\"image\":\"https://randomfox.ca/images/34.jpg\",\"link\":\"https://randomfox.ca/?i=34\"}","timestamp":"2020-06-26T14:06:59.295Z"}
+{"functionName":"fa_home_image","params":{},"level":"info","message":"Ran cloud function fa_home_image for user undefined with:\n  Input: {}\n  Result: {\"image\":\"https://randomfox.ca/images/68.jpg\",\"link\":\"https://randomfox.ca/?i=68\"}","timestamp":"2020-06-26T14:07:03.691Z"}
+{"functionName":"fa_home_image","params":{},"level":"info","message":"Ran cloud function fa_home_image for user undefined with:\n  Input: {}\n  Result: {\"image\":\"https://randomfox.ca/images/35.jpg\",\"link\":\"https://randomfox.ca/?i=35\"}","timestamp":"2020-06-26T14:07:10.866Z"}
+{"functionName":"fa_home_image","params":{},"level":"info","message":"Ran cloud function fa_home_image for user undefined with:\n  Input: {}\n  Result: {\"image\":\"https://randomfox.ca/images/27.jpg\",\"link\":\"https://randomfox.ca/?i=27\"}","timestamp":"2020-06-26T14:07:20.355Z"}
