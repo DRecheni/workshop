@@ -1,0 +1,19 @@
+{"level":"error","message":"Can not find subscription with clientId 1 subscriptionId 1","timestamp":"2020-03-24T07:54:14.476Z"}
+{"error":{"code":119,"message":"Permission denied for action addField on class _User."},"level":"error","message":"Error generating response. ParseError {\n  code: 119,\n  message: 'Permission denied for action addField on class _User.' }","timestamp":"2020-03-24T07:54:56.347Z"}
+{"code":119,"message":"Permission denied for action addField on class _User.","level":"error","timestamp":"2020-03-24T07:54:56.348Z"}
+{"error":{"code":119,"message":"Permission denied for action addField on class _User."},"level":"error","message":"Error generating response. ParseError {\n  code: 119,\n  message: 'Permission denied for action addField on class _User.' }","timestamp":"2020-03-24T07:55:14.865Z"}
+{"code":119,"message":"Permission denied for action addField on class _User.","level":"error","timestamp":"2020-03-24T07:55:14.866Z"}
+{"error":{"code":119,"message":"Permission denied for action addField on class _User."},"level":"error","message":"Error generating response. ParseError {\n  code: 119,\n  message: 'Permission denied for action addField on class _User.' }","timestamp":"2020-03-24T07:55:31.117Z"}
+{"code":119,"message":"Permission denied for action addField on class _User.","level":"error","timestamp":"2020-03-24T07:55:31.118Z"}
+{"error":{"code":111,"message":"schema mismatch for _User.status; expected String but got Number"},"level":"error","message":"Error generating response. ParseError {\n  code: 111,\n  message: 'schema mismatch for _User.status; expected String but got Number' }","timestamp":"2020-03-24T07:56:30.242Z"}
+{"code":111,"message":"schema mismatch for _User.status; expected String but got Number","level":"error","timestamp":"2020-03-24T07:56:30.243Z"}
+{"level":"error","message":"Can not find subscription with clientId 1 subscriptionId 1","timestamp":"2020-03-24T07:56:31.458Z"}
+{"level":"error","message":"Can not find subscription with clientId 0 subscriptionId 1","timestamp":"2020-03-24T07:56:58.548Z"}
+{"error":{"code":119,"message":"Permission denied for action addField on class _User."},"level":"error","message":"Error generating response. ParseError {\n  code: 119,\n  message: 'Permission denied for action addField on class _User.' }","timestamp":"2020-03-24T07:57:29.794Z"}
+{"code":119,"message":"Permission denied for action addField on class _User.","level":"error","timestamp":"2020-03-24T07:57:29.796Z"}
+{"error":{"code":119,"message":"Permission denied for action addField on class _User."},"level":"error","message":"Error generating response. ParseError {\n  code: 119,\n  message: 'Permission denied for action addField on class _User.' }","timestamp":"2020-03-24T07:59:17.278Z"}
+{"code":119,"message":"Permission denied for action addField on class _User.","level":"error","timestamp":"2020-03-24T07:59:17.278Z"}
+{"level":"error","message":"Can not find subscription with clientId 5 subscriptionId 1","timestamp":"2020-03-24T08:43:34.461Z"}
+{"level":"error","message":"Can not find subscription with clientId 0 subscriptionId 1","timestamp":"2020-03-24T08:43:49.286Z"}
+{"level":"error","message":"Can not find subscription with clientId 361 subscriptionId 1","timestamp":"2020-03-24T13:01:11.545Z"}
+{"level":"error","message":"Can not find subscription with clientId 461 subscriptionId 1","timestamp":"2020-03-24T15:12:32.450Z"}

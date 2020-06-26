@@ -1,0 +1,10 @@
+{"error":{"code":141,"message":"Invalid function: \"addLastOrderToPerson\""},"level":"error","message":"Error handling request: ParseError {\n  code: 141,\n  message: 'Invalid function: \"addLastOrderToPerson\"' }","timestamp":"2020-05-12T08:22:43.122Z"}
+{"code":141,"message":"Invalid function: \"addLastOrderToPerson\"","level":"error","timestamp":"2020-05-12T08:22:43.124Z"}
+{"functionName":"addLastRequestToPerson","error":{"code":141,"message":{"code":101,"message":"Object not found."}},"params":{},"user":"DEaw9FXHnS","level":"error","message":"Failed running cloud function addLastRequestToPerson for user DEaw9FXHnS with:\n  Input: {}\n  Error: {\"code\":141,\"message\":{\"code\":101,\"message\":\"Object not found.\"}}","timestamp":"2020-05-12T08:45:24.971Z"}
+{"error":{"code":141,"message":{"code":101,"message":"Object not found."}},"level":"error","message":"Error generating response. ParseError {\n  code: 141,\n  message: ParseError { code: 101, message: 'Object not found.' } }","timestamp":"2020-05-12T08:45:24.972Z"}
+{"code":141,"message":"ParseError { code: 101, message: 'Object not found.' }","level":"error","timestamp":"2020-05-12T08:45:24.972Z"}
+{"level":"error","message":"Can not find subscription with clientId 21 subscriptionId 1","timestamp":"2020-05-12T10:23:40.873Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-05-12T12:03:15.861Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-05-12T12:03:21.113Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-05-12T12:03:36.111Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-05-12T12:03:38.941Z"}

@@ -1,0 +1,7 @@
+{"error":{"code":107,"message":"You cannot use [object Object] as a query parameter."},"level":"error","message":"Error generating response. ParseError {\n  code: 107,\n  message: 'You cannot use [object Object] as a query parameter.' }","timestamp":"2020-06-16T08:03:36.572Z"}
+{"code":107,"message":"You cannot use [object Object] as a query parameter.","level":"error","timestamp":"2020-06-16T08:03:36.573Z"}
+{"error":{"code":107,"message":"You cannot use [object Object] as a query parameter."},"level":"error","message":"Error generating response. ParseError {\n  code: 107,\n  message: 'You cannot use [object Object] as a query parameter.' }","timestamp":"2020-06-16T08:03:36.577Z"}
+{"code":107,"message":"You cannot use [object Object] as a query parameter.","level":"error","timestamp":"2020-06-16T08:03:36.577Z"}
+{"level":"error","message":"Can not find subscription with clientId 3 subscriptionId 1","timestamp":"2020-06-16T10:55:51.175Z"}
+{"level":"error","message":"Can not find subscription with clientId 18 subscriptionId 1","timestamp":"2020-06-16T11:26:22.583Z"}
+{"level":"error","message":"Can not find subscription with clientId 19 subscriptionId 1","timestamp":"2020-06-16T11:28:19.575Z"}

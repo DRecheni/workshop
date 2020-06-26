@@ -1,0 +1,23 @@
+{"level":"error","message":"Can not find subscription with clientId 1 subscriptionId 1","timestamp":"2020-04-27T07:36:02.755Z"}
+{"level":"error","message":"Can not find subscription with clientId 10 subscriptionId 1","timestamp":"2020-04-27T07:40:16.051Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-27T14:21:01.706Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-27T14:21:01.717Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-27T14:21:01.718Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-27T14:21:01.719Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-27T14:21:01.939Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-27T14:21:01.952Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-27T14:21:01.953Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-27T14:21:01.958Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-27T14:21:01.973Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-27T14:21:01.974Z"}
+{"level":"error","message":"Can not find subscription with clientId 102 subscriptionId 1","timestamp":"2020-04-27T14:21:04.803Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-27T14:21:04.831Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-27T14:21:08.677Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-27T14:21:08.678Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-27T14:21:08.678Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-27T14:21:08.679Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-27T14:21:08.712Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-27T14:21:08.721Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-27T14:21:08.721Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-27T14:21:08.749Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-27T14:21:08.750Z"}

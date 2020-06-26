@@ -1,0 +1,515 @@
+POST http://localhost:1337/1/functions/fa_client_add_validate_vat
+Accept: */*
+Cache-Control: no-cache
+X-Parse-Application-Id: myAppId
+Content-Type: application/json
+
+{ "name": "French company","taxId" : "FR17838714608", "countryCode": "DE" }
+
+<> 2020-03-04T120419.200.json
+
+###
+
+POST http://localhost:1337/1/functions/fa_client_add_validate_vat
+Accept: */*
+Cache-Control: no-cache
+X-Parse-Application-Id: myAppId
+Content-Type: application/json
+
+{ "name": "French company","taxId" : "FR17838714608", "countryCode": "DE" }
+
+<> 2020-03-04T115129.200.json
+
+###
+
+POST http://localhost:1337/1/functions/fa_client_add_validate_vat
+Accept: */*
+Cache-Control: no-cache
+X-Parse-Application-Id: myAppId
+Content-Type: application/json
+
+{ "name": "French company","taxId" : "FR17838714608", "countryCode": "DE" }
+
+<> 2020-03-04T114312.200.json
+
+###
+
+POST http://localhost:1337/1/functions/fa_client_add_validate_vat
+Accept: */*
+Cache-Control: no-cache
+X-Parse-Application-Id: myAppId
+Content-Type: application/json
+
+{ "name": "French company","taxId" : "FR17838714608", "countryCode": "DE" }
+
+###
+
+POST http://localhost:1337/1/functions/fa_client_add_validate_vat
+Accept: */*
+Cache-Control: no-cache
+X-Parse-Application-Id: myAppId
+Content-Type: application/json
+
+{ "name": "French company","taxId" : "FR17838714608" }
+
+<> 2020-03-04T114102.200.json
+
+###
+
+POST http://localhost:1337/1/functions/fa_client_add_validate_vat
+Accept: */*
+Cache-Control: no-cache
+X-Parse-Application-Id: myAppId
+Content-Type: application/json
+
+{ "name": "French company","taxId" : "FR17838714608" }
+
+<> 2020-03-04T114002.200.json
+
+###
+
+POST http://localhost:1337/1/functions/fa_client_add_validate_vat
+Accept: */*
+Cache-Control: no-cache
+X-Parse-Application-Id: myAppId
+Content-Type: application/json
+
+{ "name": "French company","taxId" : "FR17838714608" }
+
+<> 2020-03-04T113815.200.json
+
+###
+
+POST http://localhost:1337/1/functions/fa_client_add_validate_vat
+Accept: */*
+Cache-Control: no-cache
+X-Parse-Application-Id: myAppId
+Content-Type: application/json
+
+{ "name": "French company","taxId" : "FR17838714608" }
+
+<> 2020-03-04T113730.200.json
+
+###
+
+POST http://localhost:1337/1/functions/fa_client_add_validate_vat
+Accept: */*
+Cache-Control: no-cache
+X-Parse-Application-Id: myAppId
+Content-Type: application/json
+
+{ "name": "French company","taxId" : "FR17838714608" }
+
+<> 2020-03-04T113558.200.json
+
+###
+
+POST http://localhost:1337/1/functions/fa_client_add_validate_vat
+Accept: */*
+Cache-Control: no-cache
+X-Parse-Application-Id: myAppId
+Content-Type: application/json
+
+{ "name": "French company","taxId" : "FR17838714608" }
+
+<> 2020-03-04T113508.200.json
+
+###
+
+POST http://localhost:1337/1/functions/fa_client_add_validate_vat
+Accept: */*
+Cache-Control: no-cache
+X-Parse-Application-Id: myAppId
+Content-Type: application/json
+
+{ "client" : "FR17838714608" }
+
+<> 2020-03-04T104441.200.json
+
+###
+
+POST http://localhost:1337/1/functions/fa_client_add_validate_vat
+Accept: */*
+Cache-Control: no-cache
+X-Parse-Application-Id: myAppId
+Content-Type: application/json
+
+{ "client" : "FR17838714608" }
+
+<> 2020-03-04T104405.200.json
+
+###
+
+POST http://localhost:1337/1/functions/fa_client_add_validate_vat
+Accept: */*
+Cache-Control: no-cache
+X-Parse-Application-Id: myAppId
+Content-Type: application/json
+
+{ "client" : "FR17838714608" }
+
+<> 2020-03-04T104328.200.json
+
+###
+
+POST http://localhost:1337/1/functions/fa_client_add_validate_vat
+Accept: */*
+Cache-Control: no-cache
+X-Parse-Application-Id: myAppId
+Content-Type: application/json
+
+{ "client" : "FR17838714608" }
+
+<> 2020-03-04T104126.200.json
+
+###
+
+POST http://localhost:1337/1/functions/fa_client_add_validate_vat
+Accept: */*
+Cache-Control: no-cache
+X-Parse-Application-Id: myAppId
+Content-Type: application/json
+
+{ "client" : "FR17838714608" }
+
+<> 2020-03-04T104004.200.json
+
+###
+
+POST http://localhost:1337/1/functions/fa_client_add_validate_vat
+Accept: */*
+Cache-Control: no-cache
+X-Parse-Application-Id: myAppId
+Content-Type: application/json
+
+{ "client" : "FR17838714608" }
+
+<> 2020-03-04T103835.200.json
+
+###
+
+POST http://localhost:1337/1/functions/fa_client_add_validate_vat
+Accept: */*
+Cache-Control: no-cache
+X-Parse-Application-Id: myAppId
+Content-Type: application/json
+
+{ "client" : "FR17838714608" }
+
+<> 2020-03-04T103732.200.json
+
+###
+
+POST http://localhost:1337/1/functions/fa_client_add_validate_vat
+Accept: */*
+Cache-Control: no-cache
+X-Parse-Application-Id: myAppId
+Content-Type: application/json
+
+{ "client" : "FR17838714608" }
+
+<> 2020-03-04T102906.200.json
+
+###
+
+POST http://localhost:1337/1/functions/fa_client_add_validate_vat
+Accept: */*
+Cache-Control: no-cache
+X-Parse-Application-Id: myAppId
+Content-Type: application/json
+
+{ "client" : "FR17838714608" }
+
+<> 2020-03-04T102849.200.json
+
+###
+
+POST http://localhost:1337/1/functions/fa_client_add_validate_vat?vatId=FR17838714608
+Accept: */*
+Cache-Control: no-cache
+X-Parse-Application-Id: myAppId
+Content-Type: application/json
+
+{ "client" : "FR17838714608" }
+
+<> 2020-03-04T102455.200.json
+
+###
+
+POST http://localhost:1337/1/functions/fa_client_add_validate_vat?vatId=FR17838714608
+Accept: */*
+Cache-Control: no-cache
+X-Parse-Application-Id: myAppId
+Content-Type: application/json
+
+<> 2020-03-04T102247.200.json
+
+###
+
+POST http://localhost:1337/1/functions/fa_client_add_validate_vat?vatId=FR17838714608
+Accept: */*
+Cache-Control: no-cache
+X-Parse-Application: myAppId
+Content-Type: application/json
+
+<> 2020-03-04T102238.403.txt
+
+###
+
+POST http://localhost:1337/1/functions/fa_client_add_validate_vat?vatId=FR17838714608
+Accept: */*
+Cache-Control: no-cache
+x-parse-application: myAppId
+Content-Type: application/json
+
+<> 2020-03-04T102206.403.txt
+
+###
+
+POST http://localhost:1337/1/functions/fa_client_add_validate_vat?vatId=FR17838714608
+Accept: */*
+Cache-Control: no-cache
+x-parse-application: myAppId
+Content-Type: application/json
+
+<> 2020-03-04T102202.403.txt
+
+###
+
+POST http://localhost:1337/1/functions/fa_client_add_validate_vat?vatId=FR17838714608
+Accept: */*
+Cache-Control: no-cache
+x-parse-application: myAppId
+Content-Type: application/json
+
+<> 2020-03-04T102141.403.txt
+
+###
+
+POST http://localhost:1337/1/functions/fa_client_add_validate_vat?vatId=FR17838714608
+Accept: */*
+Cache-Control: no-cache
+x-parse-application: myAppId
+Content-Type: application/json
+
+<> 2020-03-04T102139.403.txt
+
+###
+
+POST http://localhost:1337/1/functions/fa_client_add_validate_vat?vatId=FR17838714608
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-04T102034.403.txt
+
+###
+
+POST http:localhost:1337/1/functions/fa_client_add_validate_vat?vatId=FR17838714608
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://www.apilayer.net/api/validate?access_key=e70af1b5ce7f49c290f561a811dfda20&vat_number=FR17838714608&format=1
+
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/x-www-form-urlencoded
+
+<> 2020-03-03T050446.200.json
+
+###
+
+POST https://api2.ust-id-pruefen.de/vat-id-check.php
+
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/x-www-form-urlencoded
+
+<> 2020-03-03T050314.200.json
+
+###
+
+POST https://api2.ust-id-pruefen.de/vat-id-check.php?{"vatId":"FR17838714608"}=
+
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/x-www-form-urlencoded
+
+<> 2020-03-03T045349.200.json
+
+###
+
+POST https://api2.ust-id-pruefen.de/vat-id-check.php?{"vatId":"FR17838714608"}=
+
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/x-www-form-urlencoded
+
+<> 2020-03-03T045254.200.json
+
+###
+
+POST https://api2.ust-id-pruefen.de/vat-id-check.php?{vatId:FR17838714608}=
+
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/x-www-form-urlencoded
+
+<> 2020-03-03T044359.200.json
+
+###
+
+POST https://api2.ust-id-pruefen.de/vat-id-check.php?{vatId:"FR17838714608"}=
+
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/x-www-form-urlencoded
+
+<> 2020-03-03T044348.200.json
+
+###
+
+POST https://api2.ust-id-pruefen.de/vat-id-check.php?{"vatId":"FR17838714608"}=
+
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/x-www-form-urlencoded
+
+<> 2020-03-03T044206.200.json
+
+###
+
+POST https://api2.ust-id-pruefen.de/vat-id-check.php
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+{"vatId": "FR17838714608"}
+
+<> 2020-03-03T044056.400.html
+
+###
+
+POST https://api2.ust-id-pruefen.de/vat-id-check.php
+Accept: */*
+Cache-Control: no-cache
+{vatId: "FR17838714608"}
+
+<> 2020-03-03T044007.400.html
+
+###
+
+POST https://api2.ust-id-pruefen.de/vat-id-check.php?vatId=FR17838714608
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-03T043938.200.json
+
+###
+
+POST https://api2.ust-id-pruefen.de/vat-id-check.php?{vatId:"FR17838714608"}=
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-03T043835.200.json
+
+###
+
+POST https://api2.ust-id-pruefen.de/vat-id-check.php
+Accept: */*
+Cache-Control: no-cache
+{vatId: "FR17838714608"}
+
+<> 2020-03-03T043821.400.html
+
+###
+
+POST https://api2.ust-id-pruefen.de/vat-id-check.php
+Accept: */*
+Cache-Control: no-cache
+{vatId: "FR17838714608"}
+
+<> 2020-03-03T043722.400.html
+
+###
+
+POST https://api2.ust-id-pruefen.de/vat-id-check.php
+Accept: */*
+Cache-Control: no-cache
+{vatId: FR17838714608}
+
+<> 2020-03-03T043658.400.html
+
+###
+
+POST https://api2.ust-id-pruefen.de/vat-id-check.php
+Accept: */*
+Cache-Control: no-cache
+Body: {vatId: FR17838714608}
+<> 2020-03-03T043245.200.json:
+<> 2020-03-03T043232.200.json:
+<> 2020-03-03T043126.200.json:
+<> 2020-03-03T042555.200.json:
+<> 2020-03-03T042400.200.json:
+<> 2020-03-03T042328.200.json:
+
+<> 2020-03-03T043541.400.html
+
+###
+
+POST https://api2.ust-id-pruefen.de/vat-id-check.php?{vatId:"FR17838714608"}=
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-03T043245.200.json
+
+###
+
+POST https://api2.ust-id-pruefen.de/vat-id-check.php?{vatId:FR17838714608}=
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-03T043232.200.json
+
+###
+
+POST https://api2.ust-id-pruefen.de/vat-id-check.php?{vatId:"FR17838714608"}=
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-03T043126.200.json
+
+###
+
+POST https://api2.ust-id-pruefen.de/vat-id-check.php?vatId="FR17838714608"
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-03T042555.200.json
+
+###
+
+POST https://api2.ust-id-pruefen.de/vat-id-check.php?vatId="FR17838714608"
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-03T042400.200.json
+
+###
+
+POST https://api2.ust-id-pruefen.de/vat-id-check.php?vatId=FR17838714608
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-03T042328.200.json
+
+###
+
+POST https://api2.ust-id-pruefen.de/vat-id-check.php?vatId=FR17838714608
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-03T042224.200.json
+
+###
+

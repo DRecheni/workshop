@@ -1,0 +1,6 @@
+{"level":"error","message":"Can not find subscription with clientId 9 subscriptionId 1","timestamp":"2020-06-09T07:22:35.056Z"}
+{"level":"error","message":"Can not find subscription with clientId 11 subscriptionId 1","timestamp":"2020-06-09T08:13:18.830Z"}
+{"level":"error","message":"Can not find subscription with clientId 35 subscriptionId 1","timestamp":"2020-06-09T08:32:06.709Z"}
+{"level":"error","message":"Can not find subscription with clientId 154 subscriptionId 1","timestamp":"2020-06-09T12:47:10.333Z"}
+{"level":"error","message":"Can not find subscription with clientId 158 subscriptionId 1","timestamp":"2020-06-09T12:51:25.734Z"}
+{"level":"error","message":"Can not find subscription with clientId 247 subscriptionId 2","timestamp":"2020-06-09T15:09:35.783Z"}

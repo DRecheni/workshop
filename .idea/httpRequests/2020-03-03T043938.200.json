@@ -1,0 +1,5 @@
+{
+    "status": "error",
+    "errorMsg": "INVALID_INPUT",
+    "message": "Entweder ist der Ländercode falsch oder Sie haben noch keine Umsatzsteuer-ID eingegeben!"
+}

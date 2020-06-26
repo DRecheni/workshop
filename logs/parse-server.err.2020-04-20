@@ -1,0 +1,36 @@
+{"functionName":"fa_data_user_stats","error":{"code":141,"message":"User not found"},"params":{},"user":"DEaw9FXHnS","level":"error","message":"Failed running cloud function fa_data_user_stats for user DEaw9FXHnS with:\n  Input: {}\n  Error: {\"code\":141,\"message\":\"User not found\"}","timestamp":"2020-04-20T10:32:43.438Z"}
+{"error":{"code":141,"message":"User not found"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'User not found' }","timestamp":"2020-04-20T10:32:43.438Z"}
+{"code":141,"message":"User not found","level":"error","timestamp":"2020-04-20T10:32:43.439Z"}
+{"level":"error","message":"Can not find subscription with clientId 0 subscriptionId 1","timestamp":"2020-04-20T10:32:51.138Z"}
+{"functionName":"fa_data_user_stats","error":{"code":141,"message":"User not found"},"params":{},"user":"DEaw9FXHnS","level":"error","message":"Failed running cloud function fa_data_user_stats for user DEaw9FXHnS with:\n  Input: {}\n  Error: {\"code\":141,\"message\":\"User not found\"}","timestamp":"2020-04-20T10:33:11.628Z"}
+{"error":{"code":141,"message":"User not found"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'User not found' }","timestamp":"2020-04-20T10:33:11.628Z"}
+{"code":141,"message":"User not found","level":"error","timestamp":"2020-04-20T10:33:11.629Z"}
+{"functionName":"fa_data_user_stats","error":{"code":141,"message":"User not found"},"params":{"userId":"zlxxdGm3B8"},"user":"DEaw9FXHnS","level":"error","message":"Failed running cloud function fa_data_user_stats for user DEaw9FXHnS with:\n  Input: {\"userId\":\"zlxxdGm3B8\"}\n  Error: {\"code\":141,\"message\":\"User not found\"}","timestamp":"2020-04-20T10:34:12.803Z"}
+{"error":{"code":141,"message":"User not found"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'User not found' }","timestamp":"2020-04-20T10:34:12.803Z"}
+{"code":141,"message":"User not found","level":"error","timestamp":"2020-04-20T10:34:12.804Z"}
+{"level":"error","message":"Can not find subscription with clientId 0 subscriptionId 1","timestamp":"2020-04-20T11:02:55.772Z"}
+{"functionName":"fa_data_user_stats","error":{"code":141,"message":"User not found"},"params":{"userId":"zlxxdGm3B8"},"user":"DEaw9FXHnS","level":"error","message":"Failed running cloud function fa_data_user_stats for user DEaw9FXHnS with:\n  Input: {\"userId\":\"zlxxdGm3B8\"}\n  Error: {\"code\":141,\"message\":\"User not found\"}","timestamp":"2020-04-20T11:28:51.738Z"}
+{"error":{"code":141,"message":"User not found"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'User not found' }","timestamp":"2020-04-20T11:28:51.739Z"}
+{"code":141,"message":"User not found","level":"error","timestamp":"2020-04-20T11:28:51.740Z"}
+{"functionName":"fa_data_user_stats","error":{"code":141,"message":"User not found"},"params":{"userId":"zlxxdGm3B8"},"user":"DEaw9FXHnS","level":"error","message":"Failed running cloud function fa_data_user_stats for user DEaw9FXHnS with:\n  Input: {\"userId\":\"zlxxdGm3B8\"}\n  Error: {\"code\":141,\"message\":\"User not found\"}","timestamp":"2020-04-20T12:15:50.899Z"}
+{"error":{"code":141,"message":"User not found"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'User not found' }","timestamp":"2020-04-20T12:15:50.900Z"}
+{"code":141,"message":"User not found","level":"error","timestamp":"2020-04-20T12:15:50.901Z"}
+{"functionName":"fa_data_user_stats","error":{"code":141,"message":"User not found"},"params":{"userId":"zlxxdGm3B8"},"user":"DEaw9FXHnS","level":"error","message":"Failed running cloud function fa_data_user_stats for user DEaw9FXHnS with:\n  Input: {\"userId\":\"zlxxdGm3B8\"}\n  Error: {\"code\":141,\"message\":\"User not found\"}","timestamp":"2020-04-20T12:15:55.417Z"}
+{"error":{"code":141,"message":"User not found"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'User not found' }","timestamp":"2020-04-20T12:15:55.417Z"}
+{"code":141,"message":"User not found","level":"error","timestamp":"2020-04-20T12:15:55.418Z"}
+{"functionName":"fa_data_user_stats","error":{"code":141,"message":"User not found"},"params":{"userId":"zlxxdGm3B8"},"user":"DEaw9FXHnS","level":"error","message":"Failed running cloud function fa_data_user_stats for user DEaw9FXHnS with:\n  Input: {\"userId\":\"zlxxdGm3B8\"}\n  Error: {\"code\":141,\"message\":\"User not found\"}","timestamp":"2020-04-20T12:18:42.200Z"}
+{"error":{"code":141,"message":"User not found"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'User not found' }","timestamp":"2020-04-20T12:18:42.201Z"}
+{"code":141,"message":"User not found","level":"error","timestamp":"2020-04-20T12:18:42.202Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-20T13:29:28.490Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-20T13:29:28.491Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-20T14:09:19.152Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-20T14:09:19.153Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-20T14:26:09.758Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-20T14:57:02.588Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-20T14:57:22.652Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-20T14:58:33.237Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-20T14:58:40.494Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-20T14:58:51.305Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-20T14:58:51.306Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-20T14:59:43.430Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-20T14:59:43.431Z"}

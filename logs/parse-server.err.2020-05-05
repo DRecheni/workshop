@@ -1,0 +1,63 @@
+{"level":"error","message":"Can not find subscription with clientId 2 subscriptionId 1","timestamp":"2020-05-05T07:36:05.645Z"}
+{"level":"error","message":"Can not find subscription with clientId 3 subscriptionId 1","timestamp":"2020-05-05T07:41:35.784Z"}
+{"level":"error","message":"Can not find subscription with clientId 226 subscriptionId 1","timestamp":"2020-05-05T09:51:58.489Z"}
+{"level":"error","message":"Can not find subscription with clientId 231 subscriptionId 1","timestamp":"2020-05-05T10:06:55.394Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2020-05-05T10:06:55.449Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2020-05-05T10:06:55.450Z"}
+{"functionName":"fa_client_get_client_performance","error":{"code":141,"message":"Kunden Id ist ungültig"},"params":{"clientId":"5q5TLA95kF"},"user":"DEaw9FXHnS","level":"error","message":"Failed running cloud function fa_client_get_client_performance for user DEaw9FXHnS with:\n  Input: {\"clientId\":\"5q5TLA95kF\"}\n  Error: {\"code\":141,\"message\":\"Kunden Id ist ungültig\"}","timestamp":"2020-05-05T10:06:55.450Z"}
+{"error":{"code":141,"message":"Kunden Id ist ungültig"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'Kunden Id ist ungültig' }","timestamp":"2020-05-05T10:06:55.451Z"}
+{"code":141,"message":"Kunden Id ist ungültig","level":"error","timestamp":"2020-05-05T10:06:55.451Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2020-05-05T10:07:10.461Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2020-05-05T10:07:10.462Z"}
+{"functionName":"fa_client_get_client_performance","error":{"code":141,"message":"Kunden Id ist ungültig"},"params":{"clientId":"5q5TLA95kF"},"user":"DEaw9FXHnS","level":"error","message":"Failed running cloud function fa_client_get_client_performance for user DEaw9FXHnS with:\n  Input: {\"clientId\":\"5q5TLA95kF\"}\n  Error: {\"code\":141,\"message\":\"Kunden Id ist ungültig\"}","timestamp":"2020-05-05T10:07:10.474Z"}
+{"error":{"code":141,"message":"Kunden Id ist ungültig"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'Kunden Id ist ungültig' }","timestamp":"2020-05-05T10:07:10.475Z"}
+{"code":141,"message":"Kunden Id ist ungültig","level":"error","timestamp":"2020-05-05T10:07:10.475Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2020-05-05T10:07:19.915Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2020-05-05T10:07:19.915Z"}
+{"functionName":"fa_client_get_client_performance","error":{"code":141,"message":"Kunden Id ist ungültig"},"params":{"clientId":"e5kz7Slgpk"},"user":"DEaw9FXHnS","level":"error","message":"Failed running cloud function fa_client_get_client_performance for user DEaw9FXHnS with:\n  Input: {\"clientId\":\"e5kz7Slgpk\"}\n  Error: {\"code\":141,\"message\":\"Kunden Id ist ungültig\"}","timestamp":"2020-05-05T10:07:19.916Z"}
+{"error":{"code":141,"message":"Kunden Id ist ungültig"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'Kunden Id ist ungültig' }","timestamp":"2020-05-05T10:07:19.916Z"}
+{"code":141,"message":"Kunden Id ist ungültig","level":"error","timestamp":"2020-05-05T10:07:19.917Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2020-05-05T10:07:22.314Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2020-05-05T10:07:22.314Z"}
+{"functionName":"fa_client_get_client_performance","error":{"code":141,"message":"Kunden Id ist ungültig"},"params":{"clientId":"R3GY7sp1Yd"},"user":"DEaw9FXHnS","level":"error","message":"Failed running cloud function fa_client_get_client_performance for user DEaw9FXHnS with:\n  Input: {\"clientId\":\"R3GY7sp1Yd\"}\n  Error: {\"code\":141,\"message\":\"Kunden Id ist ungültig\"}","timestamp":"2020-05-05T10:07:22.316Z"}
+{"error":{"code":141,"message":"Kunden Id ist ungültig"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'Kunden Id ist ungültig' }","timestamp":"2020-05-05T10:07:22.316Z"}
+{"code":141,"message":"Kunden Id ist ungültig","level":"error","timestamp":"2020-05-05T10:07:22.316Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2020-05-05T10:07:26.500Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2020-05-05T10:07:26.501Z"}
+{"functionName":"fa_client_get_client_performance","error":{"code":141,"message":"Kunden Id ist ungültig"},"params":{"clientId":"e5kz7Slgpk"},"user":"DEaw9FXHnS","level":"error","message":"Failed running cloud function fa_client_get_client_performance for user DEaw9FXHnS with:\n  Input: {\"clientId\":\"e5kz7Slgpk\"}\n  Error: {\"code\":141,\"message\":\"Kunden Id ist ungültig\"}","timestamp":"2020-05-05T10:07:26.502Z"}
+{"error":{"code":141,"message":"Kunden Id ist ungültig"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'Kunden Id ist ungültig' }","timestamp":"2020-05-05T10:07:26.502Z"}
+{"code":141,"message":"Kunden Id ist ungültig","level":"error","timestamp":"2020-05-05T10:07:26.502Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2020-05-05T10:07:51.168Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2020-05-05T10:07:51.169Z"}
+{"functionName":"fa_client_get_client_performance","error":{"code":141,"message":"Kunden Id ist ungültig"},"params":{"clientId":"5q5TLA95kF"},"user":"DEaw9FXHnS","level":"error","message":"Failed running cloud function fa_client_get_client_performance for user DEaw9FXHnS with:\n  Input: {\"clientId\":\"5q5TLA95kF\"}\n  Error: {\"code\":141,\"message\":\"Kunden Id ist ungültig\"}","timestamp":"2020-05-05T10:07:51.170Z"}
+{"error":{"code":141,"message":"Kunden Id ist ungültig"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'Kunden Id ist ungültig' }","timestamp":"2020-05-05T10:07:51.170Z"}
+{"code":141,"message":"Kunden Id ist ungültig","level":"error","timestamp":"2020-05-05T10:07:51.171Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2020-05-05T10:07:55.843Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2020-05-05T10:07:55.844Z"}
+{"functionName":"fa_client_get_client_performance","error":{"code":141,"message":"Kunden Id ist ungültig"},"params":{"clientId":"e5kz7Slgpk"},"user":"DEaw9FXHnS","level":"error","message":"Failed running cloud function fa_client_get_client_performance for user DEaw9FXHnS with:\n  Input: {\"clientId\":\"e5kz7Slgpk\"}\n  Error: {\"code\":141,\"message\":\"Kunden Id ist ungültig\"}","timestamp":"2020-05-05T10:07:55.844Z"}
+{"error":{"code":141,"message":"Kunden Id ist ungültig"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'Kunden Id ist ungültig' }","timestamp":"2020-05-05T10:07:55.844Z"}
+{"code":141,"message":"Kunden Id ist ungültig","level":"error","timestamp":"2020-05-05T10:07:55.845Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2020-05-05T10:08:00.614Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2020-05-05T10:08:00.615Z"}
+{"functionName":"fa_client_get_client_performance","error":{"code":141,"message":"Kunden Id ist ungültig"},"params":{"clientId":"e5kz7Slgpk"},"user":"DEaw9FXHnS","level":"error","message":"Failed running cloud function fa_client_get_client_performance for user DEaw9FXHnS with:\n  Input: {\"clientId\":\"e5kz7Slgpk\"}\n  Error: {\"code\":141,\"message\":\"Kunden Id ist ungültig\"}","timestamp":"2020-05-05T10:08:00.616Z"}
+{"error":{"code":141,"message":"Kunden Id ist ungültig"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'Kunden Id ist ungültig' }","timestamp":"2020-05-05T10:08:00.616Z"}
+{"code":141,"message":"Kunden Id ist ungültig","level":"error","timestamp":"2020-05-05T10:08:00.616Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2020-05-05T10:08:53.641Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2020-05-05T10:08:53.642Z"}
+{"functionName":"fa_client_get_client_performance","error":{"code":141,"message":"Kunden Id ist ungültig"},"params":{"clientId":"e5kz7Slgpk"},"user":"DEaw9FXHnS","level":"error","message":"Failed running cloud function fa_client_get_client_performance for user DEaw9FXHnS with:\n  Input: {\"clientId\":\"e5kz7Slgpk\"}\n  Error: {\"code\":141,\"message\":\"Kunden Id ist ungültig\"}","timestamp":"2020-05-05T10:08:53.643Z"}
+{"error":{"code":141,"message":"Kunden Id ist ungültig"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'Kunden Id ist ungültig' }","timestamp":"2020-05-05T10:08:53.643Z"}
+{"code":141,"message":"Kunden Id ist ungültig","level":"error","timestamp":"2020-05-05T10:08:53.643Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2020-05-05T10:08:59.417Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2020-05-05T10:08:59.417Z"}
+{"functionName":"fa_client_get_client_performance","error":{"code":141,"message":"Kunden Id ist ungültig"},"params":{"clientId":"e5kz7Slgpk"},"user":"DEaw9FXHnS","level":"error","message":"Failed running cloud function fa_client_get_client_performance for user DEaw9FXHnS with:\n  Input: {\"clientId\":\"e5kz7Slgpk\"}\n  Error: {\"code\":141,\"message\":\"Kunden Id ist ungültig\"}","timestamp":"2020-05-05T10:08:59.418Z"}
+{"error":{"code":141,"message":"Kunden Id ist ungültig"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'Kunden Id ist ungültig' }","timestamp":"2020-05-05T10:08:59.419Z"}
+{"code":141,"message":"Kunden Id ist ungültig","level":"error","timestamp":"2020-05-05T10:08:59.419Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-05-05T11:58:06.352Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-05-05T11:58:06.432Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-05-05T11:58:06.441Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-05-05T11:58:06.450Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-05-05T11:58:08.705Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-05-05T11:58:08.810Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-05-05T11:58:09.222Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-05-05T11:58:09.292Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-05-05T11:58:56.832Z"}

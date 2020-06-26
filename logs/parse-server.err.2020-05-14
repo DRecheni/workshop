@@ -1,0 +1,47 @@
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-05-14T09:05:12.718Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-05-14T09:05:21.406Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-05-14T09:05:21.419Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-05-14T09:05:21.420Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-05-14T09:05:21.420Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-05-14T09:05:21.489Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-05-14T09:05:21.593Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-05-14T09:05:21.594Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-05-14T09:05:21.598Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-05-14T09:05:21.658Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-05-14T09:05:21.658Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-05-14T09:05:27.770Z"}
+{"functionName":"fa_data_user_stats","error":{"code":141,"message":"No stats in database"},"params":{"userId":"ECJxUsNZjj"},"user":"ECJxUsNZjj","level":"error","message":"Failed running cloud function fa_data_user_stats for user ECJxUsNZjj with:\n  Input: {\"userId\":\"ECJxUsNZjj\"}\n  Error: {\"code\":141,\"message\":\"No stats in database\"}","timestamp":"2020-05-14T09:05:35.392Z"}
+{"error":{"code":141,"message":"No stats in database"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'No stats in database' }","timestamp":"2020-05-14T09:05:35.392Z"}
+{"code":141,"message":"No stats in database","level":"error","timestamp":"2020-05-14T09:05:35.393Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-05-14T10:22:08.991Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-05-14T10:22:08.992Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-05-14T10:22:08.993Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-05-14T10:22:08.994Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-05-14T10:22:09.024Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-05-14T10:22:09.051Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-05-14T10:22:09.058Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-05-14T10:22:09.086Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-05-14T10:22:09.087Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-05-14T10:22:09.088Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-05-14T10:22:18.938Z"}
+{"level":"error","message":"Can not find subscription with clientId 7 subscriptionId 1","timestamp":"2020-05-14T11:52:08.291Z"}
+{"level":"error","message":"Can not find subscription with clientId 12 subscriptionId 1","timestamp":"2020-05-14T11:59:45.655Z"}
+{"level":"error","message":"Can not find subscription with clientId 13 subscriptionId 1","timestamp":"2020-05-14T12:01:26.477Z"}
+{"level":"error","message":"Can not find subscription with clientId 18 subscriptionId 1","timestamp":"2020-05-14T12:05:08.989Z"}
+{"level":"error","message":"Can not find subscription with clientId 19 subscriptionId 1","timestamp":"2020-05-14T12:07:43.394Z"}
+{"level":"error","message":"Can not find subscription with clientId 24 subscriptionId 1","timestamp":"2020-05-14T12:09:46.528Z"}
+{"level":"error","message":"Can not find subscription with clientId 21 subscriptionId 1","timestamp":"2020-05-14T14:29:56.696Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-05-14T14:30:05.309Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-05-14T14:30:05.310Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-05-14T14:30:05.315Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-05-14T14:30:05.324Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-05-14T14:30:06.429Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-05-14T14:30:06.435Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-05-14T14:30:19.425Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-05-14T14:30:19.426Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-05-14T14:30:21.428Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-05-14T14:30:56.533Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-05-14T14:30:56.534Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-05-14T14:30:57.258Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-05-14T14:30:58.540Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-05-14T14:31:22.342Z"}

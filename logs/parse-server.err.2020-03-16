@@ -1,0 +1,7 @@
+{"level":"error","message":"Can not find subscription with clientId 1 subscriptionId 1","timestamp":"2020-03-16T13:31:56.294Z"}
+{"level":"error","message":"Can not find subscription with clientId 1 subscriptionId 9","timestamp":"2020-03-16T13:32:48.587Z"}
+{"level":"error","message":"Can not find subscription with clientId 1 subscriptionId 24","timestamp":"2020-03-16T13:33:51.947Z"}
+{"level":"error","message":"Can not find subscription with clientId 1 subscriptionId 28","timestamp":"2020-03-16T13:34:21.108Z"}
+{"error":{"code":101,"message":"Object not found."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Object not found.' }","timestamp":"2020-03-16T15:22:27.416Z"}
+{"code":101,"message":"Object not found.","level":"error","timestamp":"2020-03-16T15:22:27.417Z"}
+{"level":"error","message":"Can not find subscription with clientId 203 subscriptionId 1","timestamp":"2020-03-16T17:50:55.374Z"}

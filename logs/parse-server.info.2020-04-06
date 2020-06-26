@@ -1,0 +1,792 @@
+{"level":"info","message":"Client disconnect: 190","timestamp":"2020-04-06T07:22:54.605Z"}
+{"level":"info","message":"Client disconnect: 191","timestamp":"2020-04-06T07:22:54.606Z"}
+{"level":"info","message":"Create new client: 192","timestamp":"2020-04-06T07:22:56.926Z"}
+{"level":"info","message":"Create new client: 193","timestamp":"2020-04-06T07:22:56.968Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Aktuelle Wechselkurse wurden hinterlegt\"","timestamp":"2020-04-06T07:22:57.370Z"}
+{"level":"info","message":"Client disconnect: 192","timestamp":"2020-04-06T07:23:07.952Z"}
+{"level":"info","message":"Client disconnect: 193","timestamp":"2020-04-06T07:23:07.952Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T07:23:10.113Z"}
+{"level":"info","message":"Create new client: 194","timestamp":"2020-04-06T07:23:10.369Z"}
+{"level":"info","message":"Create new client: 195","timestamp":"2020-04-06T07:23:10.375Z"}
+{"level":"info","message":"Client disconnect: 194","timestamp":"2020-04-06T07:24:04.183Z"}
+{"level":"info","message":"Client disconnect: 195","timestamp":"2020-04-06T07:24:04.184Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T07:24:12.299Z"}
+{"level":"info","message":"Create new client: 196","timestamp":"2020-04-06T07:24:12.363Z"}
+{"level":"info","message":"Create new client: 197","timestamp":"2020-04-06T07:24:12.409Z"}
+{"level":"info","message":"Client disconnect: 196","timestamp":"2020-04-06T07:24:36.496Z"}
+{"level":"info","message":"Client disconnect: 197","timestamp":"2020-04-06T07:24:36.498Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T07:24:43.821Z"}
+{"level":"info","message":"Create new client: 198","timestamp":"2020-04-06T07:24:44.477Z"}
+{"level":"info","message":"Create new client: 199","timestamp":"2020-04-06T07:24:44.494Z"}
+{"level":"info","message":"Client disconnect: 198","timestamp":"2020-04-06T07:25:41.276Z"}
+{"level":"info","message":"Client disconnect: 199","timestamp":"2020-04-06T07:25:41.278Z"}
+{"level":"info","message":"Create new client: 200","timestamp":"2020-04-06T07:25:46.848Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T07:25:46.930Z"}
+{"level":"info","message":"Create new client: 201","timestamp":"2020-04-06T07:25:46.969Z"}
+{"level":"info","message":"Client disconnect: 200","timestamp":"2020-04-06T07:26:17.024Z"}
+{"level":"info","message":"Client disconnect: 201","timestamp":"2020-04-06T07:26:17.026Z"}
+{"level":"info","message":"Create new client: 202","timestamp":"2020-04-06T07:26:21.961Z"}
+{"level":"info","message":"Create new client: 203","timestamp":"2020-04-06T07:26:22.038Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T07:26:22.084Z"}
+{"level":"info","message":"Client disconnect: 202","timestamp":"2020-04-06T07:26:40.067Z"}
+{"level":"info","message":"Client disconnect: 203","timestamp":"2020-04-06T07:26:40.070Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T07:26:43.094Z"}
+{"level":"info","message":"Create new client: 204","timestamp":"2020-04-06T07:26:43.114Z"}
+{"level":"info","message":"Create new client: 205","timestamp":"2020-04-06T07:26:43.199Z"}
+{"level":"info","message":"Client disconnect: 204","timestamp":"2020-04-06T07:27:33.439Z"}
+{"level":"info","message":"Client disconnect: 205","timestamp":"2020-04-06T07:27:33.441Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T07:27:42.019Z"}
+{"level":"info","message":"Create new client: 206","timestamp":"2020-04-06T07:27:42.145Z"}
+{"level":"info","message":"Create new client: 207","timestamp":"2020-04-06T07:27:42.188Z"}
+{"level":"info","message":"Client disconnect: 206","timestamp":"2020-04-06T07:28:18.161Z"}
+{"level":"info","message":"Client disconnect: 207","timestamp":"2020-04-06T07:28:18.163Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T07:28:37.485Z"}
+{"level":"info","message":"Create new client: 208","timestamp":"2020-04-06T07:28:37.588Z"}
+{"level":"info","message":"Create new client: 209","timestamp":"2020-04-06T07:28:37.603Z"}
+{"level":"info","message":"Client disconnect: 208","timestamp":"2020-04-06T07:29:23.966Z"}
+{"level":"info","message":"Client disconnect: 209","timestamp":"2020-04-06T07:29:23.967Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T07:29:30.655Z"}
+{"level":"info","message":"Create new client: 210","timestamp":"2020-04-06T07:29:30.665Z"}
+{"level":"info","message":"Create new client: 211","timestamp":"2020-04-06T07:29:30.688Z"}
+{"level":"info","message":"Client disconnect: 210","timestamp":"2020-04-06T07:29:58.547Z"}
+{"level":"info","message":"Client disconnect: 211","timestamp":"2020-04-06T07:29:58.549Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T07:30:04.135Z"}
+{"level":"info","message":"Create new client: 212","timestamp":"2020-04-06T07:30:04.208Z"}
+{"level":"info","message":"Create new client: 213","timestamp":"2020-04-06T07:30:04.264Z"}
+{"level":"info","message":"Client disconnect: 212","timestamp":"2020-04-06T07:31:24.143Z"}
+{"level":"info","message":"Client disconnect: 213","timestamp":"2020-04-06T07:31:24.145Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T07:31:29.111Z"}
+{"level":"info","message":"Create new client: 214","timestamp":"2020-04-06T07:31:29.527Z"}
+{"level":"info","message":"Create new client: 215","timestamp":"2020-04-06T07:31:29.547Z"}
+{"level":"info","message":"Client disconnect: 214","timestamp":"2020-04-06T07:31:58.716Z"}
+{"level":"info","message":"Client disconnect: 215","timestamp":"2020-04-06T07:31:58.716Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T07:32:04.449Z"}
+{"level":"info","message":"Create new client: 216","timestamp":"2020-04-06T07:32:04.809Z"}
+{"level":"info","message":"Create new client: 217","timestamp":"2020-04-06T07:32:04.834Z"}
+{"level":"info","message":"Client disconnect: 216","timestamp":"2020-04-06T07:33:12.795Z"}
+{"level":"info","message":"Client disconnect: 217","timestamp":"2020-04-06T07:33:12.797Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T07:33:17.740Z"}
+{"level":"info","message":"Create new client: 218","timestamp":"2020-04-06T07:33:17.848Z"}
+{"level":"info","message":"Create new client: 219","timestamp":"2020-04-06T07:33:17.960Z"}
+{"level":"info","message":"Client disconnect: 218","timestamp":"2020-04-06T07:34:52.077Z"}
+{"level":"info","message":"Client disconnect: 219","timestamp":"2020-04-06T07:34:52.079Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T07:34:57.839Z"}
+{"level":"info","message":"Create new client: 220","timestamp":"2020-04-06T07:34:58.495Z"}
+{"level":"info","message":"Create new client: 221","timestamp":"2020-04-06T07:34:58.575Z"}
+{"level":"info","message":"Client disconnect: 220","timestamp":"2020-04-06T07:41:42.099Z"}
+{"level":"info","message":"Client disconnect: 221","timestamp":"2020-04-06T07:41:42.101Z"}
+{"level":"info","message":"Create new client: 222","timestamp":"2020-04-06T07:42:00.551Z"}
+{"level":"info","message":"Create new client: 223","timestamp":"2020-04-06T07:42:00.565Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T07:42:01.781Z"}
+{"level":"info","message":"Client disconnect: 222","timestamp":"2020-04-06T07:42:08.971Z"}
+{"level":"info","message":"Client disconnect: 223","timestamp":"2020-04-06T07:42:08.973Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T07:42:26.782Z"}
+{"level":"info","message":"Create new client: 224","timestamp":"2020-04-06T07:42:27.182Z"}
+{"level":"info","message":"Create new client: 225","timestamp":"2020-04-06T07:42:27.190Z"}
+{"level":"info","message":"Client disconnect: 224","timestamp":"2020-04-06T07:44:24.748Z"}
+{"level":"info","message":"Client disconnect: 225","timestamp":"2020-04-06T07:44:24.750Z"}
+{"level":"info","message":"Create new client: 226","timestamp":"2020-04-06T07:44:33.097Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T07:44:33.126Z"}
+{"level":"info","message":"Create new client: 227","timestamp":"2020-04-06T07:44:33.132Z"}
+{"level":"info","message":"Client disconnect: 226","timestamp":"2020-04-06T07:47:38.992Z"}
+{"level":"info","message":"Client disconnect: 227","timestamp":"2020-04-06T07:47:38.994Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T07:47:55.870Z"}
+{"level":"info","message":"Create new client: 228","timestamp":"2020-04-06T07:47:59.907Z"}
+{"level":"info","message":"Create new client: 229","timestamp":"2020-04-06T07:47:59.912Z"}
+{"level":"info","message":"Client disconnect: 228","timestamp":"2020-04-06T08:00:23.786Z"}
+{"level":"info","message":"Client disconnect: 229","timestamp":"2020-04-06T08:00:23.789Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T08:00:31.840Z"}
+{"level":"info","message":"Create new client: 230","timestamp":"2020-04-06T08:00:32.409Z"}
+{"level":"info","message":"Create new client: 231","timestamp":"2020-04-06T08:00:32.519Z"}
+{"level":"info","message":"Client disconnect: 230","timestamp":"2020-04-06T08:01:35.853Z"}
+{"level":"info","message":"Client disconnect: 231","timestamp":"2020-04-06T08:01:35.855Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T08:01:50.291Z"}
+{"level":"info","message":"Create new client: 232","timestamp":"2020-04-06T08:01:50.639Z"}
+{"level":"info","message":"Create new client: 233","timestamp":"2020-04-06T08:01:50.808Z"}
+{"level":"info","message":"Client disconnect: 232","timestamp":"2020-04-06T08:02:10.128Z"}
+{"level":"info","message":"Client disconnect: 233","timestamp":"2020-04-06T08:02:10.130Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T08:02:22.154Z"}
+{"level":"info","message":"Create new client: 234","timestamp":"2020-04-06T08:02:22.428Z"}
+{"level":"info","message":"Create new client: 235","timestamp":"2020-04-06T08:02:22.562Z"}
+{"level":"info","message":"Client disconnect: 234","timestamp":"2020-04-06T08:09:53.041Z"}
+{"level":"info","message":"Client disconnect: 235","timestamp":"2020-04-06T08:09:53.042Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T08:09:54.181Z"}
+{"level":"info","message":"Create new client: 236","timestamp":"2020-04-06T08:09:54.191Z"}
+{"level":"info","message":"Create new client: 237","timestamp":"2020-04-06T08:09:54.210Z"}
+{"level":"info","message":"Client disconnect: 236","timestamp":"2020-04-06T08:10:34.839Z"}
+{"level":"info","message":"Client disconnect: 237","timestamp":"2020-04-06T08:10:34.842Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T08:10:49.158Z"}
+{"level":"info","message":"Create new client: 238","timestamp":"2020-04-06T08:10:50.122Z"}
+{"level":"info","message":"Create new client: 239","timestamp":"2020-04-06T08:10:50.124Z"}
+{"level":"info","message":"Client disconnect: 238","timestamp":"2020-04-06T08:10:58.425Z"}
+{"level":"info","message":"Client disconnect: 239","timestamp":"2020-04-06T08:10:58.427Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T08:11:03.728Z"}
+{"level":"info","message":"Create new client: 240","timestamp":"2020-04-06T08:11:04.302Z"}
+{"level":"info","message":"Create new client: 241","timestamp":"2020-04-06T08:11:04.375Z"}
+{"level":"info","message":"Client disconnect: 241","timestamp":"2020-04-06T08:16:22.220Z"}
+{"level":"info","message":"Client disconnect: 240","timestamp":"2020-04-06T08:16:22.222Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T08:16:45.393Z"}
+{"level":"info","message":"Create new client: 242","timestamp":"2020-04-06T08:16:46.571Z"}
+{"level":"error","message":"Can not find subscription with clientId 242 subscriptionId 1","timestamp":"2020-04-06T08:16:56.130Z"}
+{"level":"info","message":"Client disconnect: 242","timestamp":"2020-04-06T08:17:50.019Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T08:19:00.219Z"}
+{"level":"info","message":"Create new client: 243","timestamp":"2020-04-06T08:19:02.176Z"}
+{"level":"error","message":"Can not find subscription with clientId 243 subscriptionId 1","timestamp":"2020-04-06T08:19:14.124Z"}
+{"level":"info","message":"Client disconnect: 243","timestamp":"2020-04-06T08:21:47.187Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T08:22:38.338Z"}
+{"level":"info","message":"Create new client: 244","timestamp":"2020-04-06T08:22:39.109Z"}
+{"level":"error","message":"Can not find subscription with clientId 244 subscriptionId 1","timestamp":"2020-04-06T08:23:28.873Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T08:30:43.441Z"}
+{"level":"info","message":"Create new client: 245","timestamp":"2020-04-06T08:30:44.252Z"}
+{"level":"error","message":"Can not find subscription with clientId 245 subscriptionId 1","timestamp":"2020-04-06T08:30:52.734Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T08:31:44.900Z"}
+{"level":"info","message":"Create new client: 246","timestamp":"2020-04-06T08:31:45.379Z"}
+{"level":"error","message":"Can not find subscription with clientId 246 subscriptionId 1","timestamp":"2020-04-06T08:34:16.832Z"}
+{"level":"info","message":"Client disconnect: 245","timestamp":"2020-04-06T08:36:28.034Z"}
+{"level":"info","message":"Client disconnect: 244","timestamp":"2020-04-06T08:36:29.413Z"}
+{"level":"info","message":"Client disconnect: 246","timestamp":"2020-04-06T08:36:30.346Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T08:36:43.981Z"}
+{"level":"info","message":"Create new client: 247","timestamp":"2020-04-06T08:36:44.957Z"}
+{"level":"info","message":"Create new client: 248","timestamp":"2020-04-06T08:36:45.008Z"}
+{"level":"info","message":"Client disconnect: 247","timestamp":"2020-04-06T08:37:41.432Z"}
+{"level":"info","message":"Client disconnect: 248","timestamp":"2020-04-06T08:37:41.434Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T08:37:49.348Z"}
+{"level":"info","message":"Create new client: 249","timestamp":"2020-04-06T08:37:50.009Z"}
+{"level":"info","message":"Create new client: 250","timestamp":"2020-04-06T08:37:50.605Z"}
+{"level":"info","message":"Client disconnect: 249","timestamp":"2020-04-06T08:38:39.245Z"}
+{"level":"info","message":"Client disconnect: 250","timestamp":"2020-04-06T08:38:39.247Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T08:38:50.945Z"}
+{"level":"info","message":"Create new client: 251","timestamp":"2020-04-06T08:38:51.433Z"}
+{"level":"info","message":"Client disconnect: 251","timestamp":"2020-04-06T08:39:43.797Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T08:39:57.081Z"}
+{"level":"info","message":"Create new client: 252","timestamp":"2020-04-06T08:39:57.612Z"}
+{"level":"info","message":"Create new client: 253","timestamp":"2020-04-06T08:39:57.615Z"}
+{"level":"info","message":"Client disconnect: 252","timestamp":"2020-04-06T08:40:53.058Z"}
+{"level":"info","message":"Client disconnect: 253","timestamp":"2020-04-06T08:40:53.061Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T08:41:05.126Z"}
+{"level":"info","message":"Create new client: 254","timestamp":"2020-04-06T08:41:05.718Z"}
+{"level":"info","message":"Create new client: 255","timestamp":"2020-04-06T08:41:05.839Z"}
+{"level":"info","message":"Client disconnect: 254","timestamp":"2020-04-06T08:42:01.507Z"}
+{"level":"info","message":"Client disconnect: 255","timestamp":"2020-04-06T08:42:01.509Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T08:42:09.444Z"}
+{"level":"info","message":"Create new client: 256","timestamp":"2020-04-06T08:42:09.923Z"}
+{"level":"info","message":"Create new client: 257","timestamp":"2020-04-06T08:42:10.065Z"}
+{"level":"info","message":"Client disconnect: 256","timestamp":"2020-04-06T08:42:55.193Z"}
+{"level":"info","message":"Client disconnect: 257","timestamp":"2020-04-06T08:42:55.195Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T08:43:06.504Z"}
+{"level":"info","message":"Create new client: 258","timestamp":"2020-04-06T08:43:07.055Z"}
+{"level":"info","message":"Create new client: 259","timestamp":"2020-04-06T08:43:07.232Z"}
+{"level":"info","message":"Client disconnect: 258","timestamp":"2020-04-06T08:43:20.849Z"}
+{"level":"info","message":"Client disconnect: 259","timestamp":"2020-04-06T08:43:20.851Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T08:43:34.528Z"}
+{"level":"info","message":"Create new client: 260","timestamp":"2020-04-06T08:43:35.244Z"}
+{"level":"info","message":"Create new client: 261","timestamp":"2020-04-06T08:43:35.252Z"}
+{"level":"info","message":"Client disconnect: 260","timestamp":"2020-04-06T08:44:13.157Z"}
+{"level":"info","message":"Client disconnect: 261","timestamp":"2020-04-06T08:44:13.159Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T08:44:20.442Z"}
+{"level":"info","message":"Create new client: 262","timestamp":"2020-04-06T08:44:20.867Z"}
+{"level":"info","message":"Create new client: 263","timestamp":"2020-04-06T08:44:20.884Z"}
+{"level":"info","message":"Client disconnect: 262","timestamp":"2020-04-06T08:46:38.687Z"}
+{"level":"info","message":"Client disconnect: 263","timestamp":"2020-04-06T08:46:38.689Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T08:47:20.860Z"}
+{"level":"info","message":"Create new client: 264","timestamp":"2020-04-06T08:47:21.707Z"}
+{"level":"error","message":"Can not find subscription with clientId 264 subscriptionId 1","timestamp":"2020-04-06T08:47:27.840Z"}
+{"level":"info","message":"Client disconnect: 264","timestamp":"2020-04-06T08:48:06.285Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T08:48:14.717Z"}
+{"level":"info","message":"Create new client: 265","timestamp":"2020-04-06T08:48:15.071Z"}
+{"level":"info","message":"Client disconnect: 265","timestamp":"2020-04-06T08:49:07.166Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T08:49:12.665Z"}
+{"level":"info","message":"Create new client: 266","timestamp":"2020-04-06T08:49:13.181Z"}
+{"level":"info","message":"Create new client: 267","timestamp":"2020-04-06T08:49:13.289Z"}
+{"level":"info","message":"Client disconnect: 266","timestamp":"2020-04-06T08:49:21.379Z"}
+{"level":"info","message":"Client disconnect: 267","timestamp":"2020-04-06T08:49:21.381Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T08:49:26.654Z"}
+{"level":"info","message":"Create new client: 268","timestamp":"2020-04-06T08:49:26.991Z"}
+{"level":"info","message":"Create new client: 269","timestamp":"2020-04-06T08:49:27.139Z"}
+{"level":"info","message":"Client disconnect: 268","timestamp":"2020-04-06T08:52:54.925Z"}
+{"level":"info","message":"Client disconnect: 269","timestamp":"2020-04-06T08:52:54.926Z"}
+{"level":"info","message":"Create new client: 270","timestamp":"2020-04-06T08:52:55.961Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T08:52:55.976Z"}
+{"level":"info","message":"Create new client: 271","timestamp":"2020-04-06T08:52:55.992Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T08:53:10.927Z"}
+{"level":"info","message":"Create new client: 272","timestamp":"2020-04-06T08:53:11.082Z"}
+{"level":"error","message":"Can not find subscription with clientId 272 subscriptionId 1","timestamp":"2020-04-06T08:53:13.159Z"}
+{"level":"info","message":"Client disconnect: 272","timestamp":"2020-04-06T08:55:40.010Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T08:55:46.911Z"}
+{"level":"info","message":"Create new client: 273","timestamp":"2020-04-06T08:55:47.359Z"}
+{"level":"info","message":"Create new client: 274","timestamp":"2020-04-06T08:55:47.432Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T08:58:22.860Z"}
+{"level":"info","message":"Create new client: 275","timestamp":"2020-04-06T08:58:23.592Z"}
+{"level":"error","message":"Can not find subscription with clientId 275 subscriptionId 1","timestamp":"2020-04-06T08:59:00.424Z"}
+{"level":"info","message":"Client disconnect: 275","timestamp":"2020-04-06T09:01:28.912Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T09:01:42.119Z"}
+{"level":"info","message":"Create new client: 276","timestamp":"2020-04-06T09:01:42.572Z"}
+{"level":"info","message":"Create new client: 277","timestamp":"2020-04-06T09:01:42.680Z"}
+{"level":"info","message":"Client disconnect: 276","timestamp":"2020-04-06T09:04:25.347Z"}
+{"level":"info","message":"Client disconnect: 277","timestamp":"2020-04-06T09:04:25.349Z"}
+{"level":"info","message":"Client disconnect: 273","timestamp":"2020-04-06T09:04:27.731Z"}
+{"level":"info","message":"Client disconnect: 274","timestamp":"2020-04-06T09:04:27.794Z"}
+{"level":"info","message":"Client disconnect: 270","timestamp":"2020-04-06T09:04:29.653Z"}
+{"level":"info","message":"Client disconnect: 271","timestamp":"2020-04-06T09:04:29.655Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T09:04:45.359Z"}
+{"level":"info","message":"Create new client: 278","timestamp":"2020-04-06T09:04:46.024Z"}
+{"level":"info","message":"Create new client: 279","timestamp":"2020-04-06T09:04:46.108Z"}
+{"level":"info","message":"Client disconnect: 278","timestamp":"2020-04-06T09:05:10.411Z"}
+{"level":"info","message":"Client disconnect: 279","timestamp":"2020-04-06T09:05:10.413Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T09:05:27.579Z"}
+{"level":"info","message":"Create new client: 280","timestamp":"2020-04-06T09:05:28.316Z"}
+{"level":"info","message":"Create new client: 281","timestamp":"2020-04-06T09:05:28.363Z"}
+{"level":"info","message":"Client disconnect: 280","timestamp":"2020-04-06T09:05:51.502Z"}
+{"level":"info","message":"Client disconnect: 281","timestamp":"2020-04-06T09:05:51.504Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T09:06:09.104Z"}
+{"level":"info","message":"Create new client: 282","timestamp":"2020-04-06T09:06:09.594Z"}
+{"level":"info","message":"Create new client: 283","timestamp":"2020-04-06T09:06:09.620Z"}
+{"level":"info","message":"Client disconnect: 283","timestamp":"2020-04-06T09:08:50.249Z"}
+{"level":"info","message":"Client disconnect: 282","timestamp":"2020-04-06T09:08:50.253Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T09:08:59.501Z"}
+{"level":"info","message":"Create new client: 284","timestamp":"2020-04-06T09:09:00.363Z"}
+{"level":"error","message":"Can not find subscription with clientId 284 subscriptionId 1","timestamp":"2020-04-06T09:09:06.390Z"}
+{"level":"info","message":"Client disconnect: 284","timestamp":"2020-04-06T09:09:20.583Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T09:09:26.856Z"}
+{"level":"info","message":"Create new client: 285","timestamp":"2020-04-06T09:09:26.979Z"}
+{"level":"info","message":"Create new client: 286","timestamp":"2020-04-06T09:09:27.010Z"}
+{"level":"info","message":"Client disconnect: 285","timestamp":"2020-04-06T09:09:53.066Z"}
+{"level":"info","message":"Client disconnect: 286","timestamp":"2020-04-06T09:09:53.067Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T09:10:34.397Z"}
+{"level":"info","message":"Create new client: 287","timestamp":"2020-04-06T09:10:35.214Z"}
+{"level":"error","message":"Can not find subscription with clientId 287 subscriptionId 1","timestamp":"2020-04-06T09:10:44.623Z"}
+{"level":"info","message":"Client disconnect: 287","timestamp":"2020-04-06T09:15:47.581Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T09:16:43.318Z"}
+{"level":"info","message":"Create new client: 288","timestamp":"2020-04-06T09:16:43.987Z"}
+{"level":"error","message":"Can not find subscription with clientId 288 subscriptionId 1","timestamp":"2020-04-06T09:16:54.505Z"}
+{"level":"info","message":"Client disconnect: 288","timestamp":"2020-04-06T09:17:45.966Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T09:17:51.960Z"}
+{"level":"info","message":"Create new client: 289","timestamp":"2020-04-06T09:17:52.409Z"}
+{"level":"info","message":"Create new client: 290","timestamp":"2020-04-06T09:17:52.531Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T09:22:56.236Z"}
+{"level":"info","message":"Create new client: 291","timestamp":"2020-04-06T09:22:57.172Z"}
+{"level":"error","message":"Can not find subscription with clientId 291 subscriptionId 1","timestamp":"2020-04-06T09:23:02.413Z"}
+{"level":"info","message":"Client disconnect: 289","timestamp":"2020-04-06T09:24:29.025Z"}
+{"level":"info","message":"Client disconnect: 290","timestamp":"2020-04-06T09:24:29.027Z"}
+{"level":"info","message":"Client disconnect: 291","timestamp":"2020-04-06T09:24:30.487Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T09:24:48.311Z"}
+{"level":"info","message":"Create new client: 292","timestamp":"2020-04-06T09:24:49.529Z"}
+{"level":"info","message":"Create new client: 293","timestamp":"2020-04-06T09:24:49.539Z"}
+{"level":"info","message":"Client disconnect: 292","timestamp":"2020-04-06T09:25:03.824Z"}
+{"level":"info","message":"Client disconnect: 293","timestamp":"2020-04-06T09:25:03.826Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T09:25:13.700Z"}
+{"level":"info","message":"Create new client: 294","timestamp":"2020-04-06T09:25:13.984Z"}
+{"level":"info","message":"Create new client: 295","timestamp":"2020-04-06T09:25:17.423Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T09:25:17.438Z"}
+{"level":"info","message":"Create new client: 296","timestamp":"2020-04-06T09:25:17.452Z"}
+{"level":"info","message":"Client disconnect: 294","timestamp":"2020-04-06T09:26:58.500Z"}
+{"level":"info","message":"Client disconnect: 295","timestamp":"2020-04-06T09:27:01.421Z"}
+{"level":"info","message":"Client disconnect: 296","timestamp":"2020-04-06T09:27:01.423Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T09:27:18.963Z"}
+{"level":"info","message":"Create new client: 297","timestamp":"2020-04-06T09:27:19.725Z"}
+{"level":"info","message":"Client disconnect: 297","timestamp":"2020-04-06T09:27:36.260Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T09:27:48.526Z"}
+{"level":"info","message":"Create new client: 298","timestamp":"2020-04-06T09:27:48.865Z"}
+{"level":"info","message":"Create new client: 299","timestamp":"2020-04-06T09:27:48.996Z"}
+{"level":"info","message":"Client disconnect: 298","timestamp":"2020-04-06T09:42:42.306Z"}
+{"level":"info","message":"Client disconnect: 299","timestamp":"2020-04-06T09:42:42.309Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T09:42:51.372Z"}
+{"level":"info","message":"Create new client: 300","timestamp":"2020-04-06T09:42:51.721Z"}
+{"level":"info","message":"Create new client: 301","timestamp":"2020-04-06T09:42:51.846Z"}
+{"level":"info","message":"Client disconnect: 300","timestamp":"2020-04-06T09:43:15.969Z"}
+{"level":"info","message":"Client disconnect: 301","timestamp":"2020-04-06T09:43:15.972Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T09:43:26.621Z"}
+{"level":"info","message":"Create new client: 302","timestamp":"2020-04-06T09:43:27.077Z"}
+{"level":"info","message":"Create new client: 303","timestamp":"2020-04-06T09:43:27.227Z"}
+{"level":"info","message":"Client disconnect: 302","timestamp":"2020-04-06T09:43:30.525Z"}
+{"level":"info","message":"Client disconnect: 303","timestamp":"2020-04-06T09:43:30.527Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T09:43:40.843Z"}
+{"level":"info","message":"Create new client: 304","timestamp":"2020-04-06T09:43:41.439Z"}
+{"level":"info","message":"Create new client: 305","timestamp":"2020-04-06T09:43:41.460Z"}
+{"level":"info","message":"Client disconnect: 304","timestamp":"2020-04-06T09:44:14.551Z"}
+{"level":"info","message":"Client disconnect: 305","timestamp":"2020-04-06T09:44:14.553Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T09:44:26.268Z"}
+{"level":"info","message":"Create new client: 306","timestamp":"2020-04-06T09:44:26.906Z"}
+{"level":"info","message":"Create new client: 307","timestamp":"2020-04-06T09:44:26.938Z"}
+{"level":"info","message":"Client disconnect: 306","timestamp":"2020-04-06T09:47:02.282Z"}
+{"level":"info","message":"Client disconnect: 307","timestamp":"2020-04-06T09:47:02.284Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T09:47:14.493Z"}
+{"level":"info","message":"Create new client: 308","timestamp":"2020-04-06T09:47:14.828Z"}
+{"level":"info","message":"Create new client: 309","timestamp":"2020-04-06T09:47:14.989Z"}
+{"level":"info","message":"Client disconnect: 308","timestamp":"2020-04-06T09:50:59.711Z"}
+{"level":"info","message":"Client disconnect: 309","timestamp":"2020-04-06T09:50:59.713Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T09:51:15.893Z"}
+{"level":"info","message":"Create new client: 310","timestamp":"2020-04-06T09:51:16.237Z"}
+{"level":"info","message":"Create new client: 311","timestamp":"2020-04-06T09:51:16.313Z"}
+{"level":"info","message":"Client disconnect: 310","timestamp":"2020-04-06T09:52:03.308Z"}
+{"level":"info","message":"Client disconnect: 311","timestamp":"2020-04-06T09:52:03.310Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T09:52:19.886Z"}
+{"level":"info","message":"Create new client: 312","timestamp":"2020-04-06T09:52:21.361Z"}
+{"level":"info","message":"Client disconnect: 312","timestamp":"2020-04-06T09:52:23.756Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T09:52:37.786Z"}
+{"level":"info","message":"Create new client: 313","timestamp":"2020-04-06T09:52:38.504Z"}
+{"level":"info","message":"Create new client: 314","timestamp":"2020-04-06T09:52:38.542Z"}
+{"level":"info","message":"Client disconnect: 313","timestamp":"2020-04-06T09:55:55.312Z"}
+{"level":"info","message":"Client disconnect: 314","timestamp":"2020-04-06T09:55:55.315Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T09:56:10.505Z"}
+{"level":"info","message":"Create new client: 315","timestamp":"2020-04-06T09:56:10.907Z"}
+{"level":"info","message":"Create new client: 316","timestamp":"2020-04-06T09:56:10.998Z"}
+{"level":"info","message":"Client disconnect: 315","timestamp":"2020-04-06T09:56:22.723Z"}
+{"level":"info","message":"Client disconnect: 316","timestamp":"2020-04-06T09:56:22.724Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T09:56:34.986Z"}
+{"level":"info","message":"Create new client: 317","timestamp":"2020-04-06T09:56:35.675Z"}
+{"level":"info","message":"Create new client: 318","timestamp":"2020-04-06T09:56:35.685Z"}
+{"level":"info","message":"Client disconnect: 317","timestamp":"2020-04-06T09:57:17.475Z"}
+{"level":"info","message":"Client disconnect: 318","timestamp":"2020-04-06T09:57:17.477Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T09:57:34.172Z"}
+{"level":"info","message":"Create new client: 319","timestamp":"2020-04-06T09:57:35.046Z"}
+{"level":"info","message":"Create new client: 320","timestamp":"2020-04-06T09:57:35.056Z"}
+{"level":"info","message":"Client disconnect: 319","timestamp":"2020-04-06T09:57:39.989Z"}
+{"level":"info","message":"Client disconnect: 320","timestamp":"2020-04-06T09:57:39.991Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T09:57:51.715Z"}
+{"level":"info","message":"Create new client: 321","timestamp":"2020-04-06T09:57:52.336Z"}
+{"level":"info","message":"Create new client: 322","timestamp":"2020-04-06T09:57:52.360Z"}
+{"functionName":"fa_client_creditsafe_setup_portofolio","params":{},"level":"info","message":"Ran cloud function fa_client_creditsafe_setup_portofolio for user undefined with:\n  Input: {}\n  Result: undefined","timestamp":"2020-04-06T09:59:39.401Z"}
+{"level":"info","message":"Create new client: 0","timestamp":"2020-04-06T09:59:39.780Z"}
+{"level":"info","message":"Create new client: 1","timestamp":"2020-04-06T09:59:53.451Z"}
+{"level":"info","message":"Client disconnect: 0","timestamp":"2020-04-06T10:00:59.776Z"}
+{"level":"info","message":"Client disconnect: 1","timestamp":"2020-04-06T10:00:59.781Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T10:01:45.625Z"}
+{"level":"info","message":"Create new client: 2","timestamp":"2020-04-06T10:01:46.351Z"}
+{"level":"error","message":"Can not find subscription with clientId 2 subscriptionId 1","timestamp":"2020-04-06T10:01:59.717Z"}
+{"level":"info","message":"Client disconnect: 2","timestamp":"2020-04-06T10:03:37.122Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T10:03:50.365Z"}
+{"level":"info","message":"Create new client: 3","timestamp":"2020-04-06T10:03:51.081Z"}
+{"level":"info","message":"Create new client: 4","timestamp":"2020-04-06T10:03:51.149Z"}
+{"level":"info","message":"Client disconnect: 3","timestamp":"2020-04-06T10:04:14.311Z"}
+{"level":"info","message":"Client disconnect: 4","timestamp":"2020-04-06T10:04:14.313Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T10:04:24.440Z"}
+{"level":"info","message":"Create new client: 5","timestamp":"2020-04-06T10:04:25.137Z"}
+{"level":"info","message":"Create new client: 6","timestamp":"2020-04-06T10:04:25.142Z"}
+{"level":"info","message":"Client disconnect: 5","timestamp":"2020-04-06T10:27:21.366Z"}
+{"level":"info","message":"Client disconnect: 6","timestamp":"2020-04-06T10:27:21.370Z"}
+{"level":"info","message":"Create new client: 7","timestamp":"2020-04-06T10:27:37.180Z"}
+{"level":"info","message":"Create new client: 8","timestamp":"2020-04-06T10:27:37.196Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T10:27:38.603Z"}
+{"level":"info","message":"Client disconnect: 7","timestamp":"2020-04-06T10:28:30.732Z"}
+{"level":"info","message":"Client disconnect: 8","timestamp":"2020-04-06T10:28:30.734Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T10:28:41.852Z"}
+{"level":"info","message":"Create new client: 9","timestamp":"2020-04-06T10:28:42.157Z"}
+{"level":"info","message":"Create new client: 10","timestamp":"2020-04-06T10:28:42.216Z"}
+{"level":"info","message":"Client disconnect: 9","timestamp":"2020-04-06T10:29:44.361Z"}
+{"level":"info","message":"Client disconnect: 10","timestamp":"2020-04-06T10:29:44.363Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T10:29:56.047Z"}
+{"level":"info","message":"Create new client: 11","timestamp":"2020-04-06T10:29:56.357Z"}
+{"level":"info","message":"Create new client: 12","timestamp":"2020-04-06T10:29:56.569Z"}
+{"level":"info","message":"Client disconnect: 11","timestamp":"2020-04-06T10:31:31.318Z"}
+{"level":"info","message":"Client disconnect: 12","timestamp":"2020-04-06T10:31:31.320Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T10:31:44.921Z"}
+{"level":"info","message":"Create new client: 13","timestamp":"2020-04-06T10:31:45.405Z"}
+{"level":"info","message":"Create new client: 14","timestamp":"2020-04-06T10:31:45.515Z"}
+{"level":"info","message":"Client disconnect: 13","timestamp":"2020-04-06T10:32:36.640Z"}
+{"level":"info","message":"Client disconnect: 14","timestamp":"2020-04-06T10:32:36.642Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T10:32:48.092Z"}
+{"level":"info","message":"Create new client: 15","timestamp":"2020-04-06T10:32:48.837Z"}
+{"level":"info","message":"Create new client: 16","timestamp":"2020-04-06T10:32:48.849Z"}
+{"level":"info","message":"Client disconnect: 15","timestamp":"2020-04-06T10:33:49.531Z"}
+{"level":"info","message":"Client disconnect: 16","timestamp":"2020-04-06T10:33:49.534Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T10:33:59.686Z"}
+{"level":"info","message":"Create new client: 17","timestamp":"2020-04-06T10:34:00.126Z"}
+{"level":"info","message":"Create new client: 18","timestamp":"2020-04-06T10:34:00.129Z"}
+{"level":"info","message":"Client disconnect: 17","timestamp":"2020-04-06T10:34:30.786Z"}
+{"level":"info","message":"Client disconnect: 18","timestamp":"2020-04-06T10:34:30.788Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T10:34:43.967Z"}
+{"level":"info","message":"Create new client: 19","timestamp":"2020-04-06T10:34:44.208Z"}
+{"level":"info","message":"Create new client: 20","timestamp":"2020-04-06T10:34:44.362Z"}
+{"level":"info","message":"Client disconnect: 19","timestamp":"2020-04-06T10:35:22.143Z"}
+{"level":"info","message":"Client disconnect: 20","timestamp":"2020-04-06T10:35:22.146Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T10:35:33.550Z"}
+{"level":"info","message":"Create new client: 21","timestamp":"2020-04-06T10:35:34.349Z"}
+{"level":"info","message":"Create new client: 22","timestamp":"2020-04-06T10:35:34.373Z"}
+{"level":"info","message":"Client disconnect: 21","timestamp":"2020-04-06T10:36:27.168Z"}
+{"level":"info","message":"Client disconnect: 22","timestamp":"2020-04-06T10:36:27.170Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T10:36:36.865Z"}
+{"level":"info","message":"Create new client: 23","timestamp":"2020-04-06T10:36:37.100Z"}
+{"level":"info","message":"Create new client: 24","timestamp":"2020-04-06T10:36:37.176Z"}
+{"level":"info","message":"Client disconnect: 23","timestamp":"2020-04-06T10:38:05.460Z"}
+{"level":"info","message":"Client disconnect: 24","timestamp":"2020-04-06T10:38:05.462Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T10:38:19.252Z"}
+{"level":"info","message":"Create new client: 25","timestamp":"2020-04-06T10:38:19.763Z"}
+{"level":"info","message":"Create new client: 26","timestamp":"2020-04-06T10:38:19.774Z"}
+{"level":"info","message":"Client disconnect: 25","timestamp":"2020-04-06T10:38:57.005Z"}
+{"level":"info","message":"Client disconnect: 26","timestamp":"2020-04-06T10:38:57.006Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T10:39:08.566Z"}
+{"level":"info","message":"Create new client: 27","timestamp":"2020-04-06T10:39:09.393Z"}
+{"level":"info","message":"Create new client: 28","timestamp":"2020-04-06T10:39:09.535Z"}
+{"level":"info","message":"Client disconnect: 27","timestamp":"2020-04-06T10:41:32.243Z"}
+{"level":"info","message":"Client disconnect: 28","timestamp":"2020-04-06T10:41:32.245Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T10:41:40.026Z"}
+{"level":"info","message":"Create new client: 29","timestamp":"2020-04-06T10:41:40.330Z"}
+{"level":"info","message":"Create new client: 30","timestamp":"2020-04-06T10:41:40.440Z"}
+{"level":"info","message":"Client disconnect: 29","timestamp":"2020-04-06T11:09:40.384Z"}
+{"level":"info","message":"Client disconnect: 30","timestamp":"2020-04-06T11:09:40.387Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T11:09:43.876Z"}
+{"level":"info","message":"Create new client: 31","timestamp":"2020-04-06T11:09:44.003Z"}
+{"level":"info","message":"Create new client: 32","timestamp":"2020-04-06T11:09:44.005Z"}
+{"level":"info","message":"Client disconnect: 31","timestamp":"2020-04-06T11:10:42.127Z"}
+{"level":"info","message":"Client disconnect: 32","timestamp":"2020-04-06T11:10:42.130Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T11:10:57.069Z"}
+{"level":"info","message":"Create new client: 33","timestamp":"2020-04-06T11:10:57.569Z"}
+{"level":"info","message":"Create new client: 34","timestamp":"2020-04-06T11:10:57.584Z"}
+{"level":"info","message":"Client disconnect: 33","timestamp":"2020-04-06T11:11:19.970Z"}
+{"level":"info","message":"Client disconnect: 34","timestamp":"2020-04-06T11:11:19.973Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T11:12:00.147Z"}
+{"level":"info","message":"Create new client: 35","timestamp":"2020-04-06T11:12:01.241Z"}
+{"level":"error","message":"Can not find subscription with clientId 35 subscriptionId 1","timestamp":"2020-04-06T11:12:13.523Z"}
+{"level":"info","message":"Client disconnect: 35","timestamp":"2020-04-06T11:13:37.728Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T11:14:35.265Z"}
+{"level":"info","message":"Create new client: 36","timestamp":"2020-04-06T11:14:36.243Z"}
+{"level":"error","message":"Can not find subscription with clientId 36 subscriptionId 1","timestamp":"2020-04-06T11:14:44.642Z"}
+{"level":"info","message":"Client disconnect: 36","timestamp":"2020-04-06T11:15:41.919Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T11:16:22.668Z"}
+{"level":"info","message":"Create new client: 37","timestamp":"2020-04-06T11:16:23.402Z"}
+{"level":"error","message":"Can not find subscription with clientId 37 subscriptionId 1","timestamp":"2020-04-06T11:17:19.913Z"}
+{"level":"info","message":"Client disconnect: 37","timestamp":"2020-04-06T11:17:52.878Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T11:17:59.644Z"}
+{"level":"info","message":"Create new client: 38","timestamp":"2020-04-06T11:17:59.929Z"}
+{"level":"info","message":"Create new client: 39","timestamp":"2020-04-06T11:18:00.076Z"}
+{"level":"info","message":"Client disconnect: 38","timestamp":"2020-04-06T11:19:35.936Z"}
+{"level":"info","message":"Client disconnect: 39","timestamp":"2020-04-06T11:19:35.939Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T11:19:49.442Z"}
+{"level":"info","message":"Create new client: 40","timestamp":"2020-04-06T11:19:49.856Z"}
+{"level":"info","message":"Create new client: 41","timestamp":"2020-04-06T11:19:49.869Z"}
+{"level":"info","message":"Client disconnect: 40","timestamp":"2020-04-06T11:20:34.665Z"}
+{"level":"info","message":"Client disconnect: 41","timestamp":"2020-04-06T11:20:34.667Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T11:20:48.689Z"}
+{"level":"info","message":"Create new client: 42","timestamp":"2020-04-06T11:20:49.164Z"}
+{"level":"info","message":"Create new client: 43","timestamp":"2020-04-06T11:20:49.184Z"}
+{"level":"info","message":"Client disconnect: 42","timestamp":"2020-04-06T11:21:57.938Z"}
+{"level":"info","message":"Client disconnect: 43","timestamp":"2020-04-06T11:21:57.941Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T11:22:08.818Z"}
+{"level":"info","message":"Create new client: 44","timestamp":"2020-04-06T11:22:09.206Z"}
+{"level":"info","message":"Create new client: 45","timestamp":"2020-04-06T11:22:09.331Z"}
+{"level":"info","message":"Client disconnect: 44","timestamp":"2020-04-06T11:22:33.463Z"}
+{"level":"info","message":"Client disconnect: 45","timestamp":"2020-04-06T11:22:33.465Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T11:22:41.773Z"}
+{"level":"info","message":"Create new client: 46","timestamp":"2020-04-06T11:22:42.613Z"}
+{"level":"info","message":"Create new client: 47","timestamp":"2020-04-06T11:22:42.616Z"}
+{"level":"info","message":"Client disconnect: 46","timestamp":"2020-04-06T11:24:21.734Z"}
+{"level":"info","message":"Client disconnect: 47","timestamp":"2020-04-06T11:24:21.735Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T11:24:36.819Z"}
+{"level":"info","message":"Create new client: 48","timestamp":"2020-04-06T11:24:37.215Z"}
+{"level":"info","message":"Create new client: 49","timestamp":"2020-04-06T11:24:37.219Z"}
+{"level":"info","message":"Client disconnect: 48","timestamp":"2020-04-06T11:25:02.758Z"}
+{"level":"info","message":"Client disconnect: 49","timestamp":"2020-04-06T11:25:02.761Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T11:25:15.735Z"}
+{"level":"info","message":"Create new client: 50","timestamp":"2020-04-06T11:25:16.227Z"}
+{"level":"info","message":"Create new client: 51","timestamp":"2020-04-06T11:25:16.241Z"}
+{"level":"info","message":"Client disconnect: 50","timestamp":"2020-04-06T11:27:17.008Z"}
+{"level":"info","message":"Client disconnect: 51","timestamp":"2020-04-06T11:27:17.010Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T11:27:26.857Z"}
+{"level":"info","message":"Create new client: 52","timestamp":"2020-04-06T11:27:27.463Z"}
+{"level":"info","message":"Create new client: 53","timestamp":"2020-04-06T11:27:27.920Z"}
+{"level":"info","message":"Client disconnect: 52","timestamp":"2020-04-06T11:30:14.775Z"}
+{"level":"info","message":"Client disconnect: 53","timestamp":"2020-04-06T11:30:14.777Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T11:30:34.367Z"}
+{"level":"info","message":"Create new client: 54","timestamp":"2020-04-06T11:30:35.776Z"}
+{"level":"info","message":"Create new client: 55","timestamp":"2020-04-06T11:30:36.170Z"}
+{"level":"info","message":"Client disconnect: 54","timestamp":"2020-04-06T11:30:51.943Z"}
+{"level":"info","message":"Client disconnect: 55","timestamp":"2020-04-06T11:30:51.946Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T11:31:06.185Z"}
+{"level":"info","message":"Create new client: 56","timestamp":"2020-04-06T11:31:06.534Z"}
+{"level":"info","message":"Create new client: 57","timestamp":"2020-04-06T11:31:06.548Z"}
+{"level":"info","message":"Client disconnect: 56","timestamp":"2020-04-06T11:37:27.006Z"}
+{"level":"info","message":"Client disconnect: 57","timestamp":"2020-04-06T11:37:27.008Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T11:38:14.444Z"}
+{"level":"info","message":"Create new client: 58","timestamp":"2020-04-06T11:38:15.102Z"}
+{"level":"error","message":"Can not find subscription with clientId 58 subscriptionId 1","timestamp":"2020-04-06T11:38:34.208Z"}
+{"level":"info","message":"Client disconnect: 58","timestamp":"2020-04-06T11:39:18.854Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T11:39:38.826Z"}
+{"level":"info","message":"Create new client: 59","timestamp":"2020-04-06T11:39:39.082Z"}
+{"level":"info","message":"Create new client: 60","timestamp":"2020-04-06T11:39:39.084Z"}
+{"level":"info","message":"Client disconnect: 59","timestamp":"2020-04-06T11:39:58.756Z"}
+{"level":"info","message":"Client disconnect: 60","timestamp":"2020-04-06T11:39:58.758Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T11:40:04.266Z"}
+{"level":"info","message":"Create new client: 61","timestamp":"2020-04-06T11:40:04.803Z"}
+{"level":"info","message":"Create new client: 62","timestamp":"2020-04-06T11:40:04.881Z"}
+{"level":"info","message":"Client disconnect: 61","timestamp":"2020-04-06T11:41:53.427Z"}
+{"level":"info","message":"Client disconnect: 62","timestamp":"2020-04-06T11:41:53.430Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T11:42:34.032Z"}
+{"level":"info","message":"Create new client: 63","timestamp":"2020-04-06T11:42:34.728Z"}
+{"level":"error","message":"Can not find subscription with clientId 63 subscriptionId 1","timestamp":"2020-04-06T11:42:43.186Z"}
+{"level":"info","message":"Client disconnect: 63","timestamp":"2020-04-06T11:43:51.201Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T11:43:57.640Z"}
+{"level":"info","message":"Create new client: 64","timestamp":"2020-04-06T11:43:58.096Z"}
+{"level":"info","message":"Create new client: 65","timestamp":"2020-04-06T11:43:58.098Z"}
+{"level":"info","message":"Client disconnect: 64","timestamp":"2020-04-06T11:44:05.052Z"}
+{"level":"info","message":"Client disconnect: 65","timestamp":"2020-04-06T11:44:05.055Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T11:44:10.226Z"}
+{"level":"info","message":"Create new client: 66","timestamp":"2020-04-06T11:44:10.526Z"}
+{"level":"info","message":"Create new client: 67","timestamp":"2020-04-06T11:44:10.658Z"}
+{"level":"info","message":"Client disconnect: 66","timestamp":"2020-04-06T11:45:24.716Z"}
+{"level":"info","message":"Client disconnect: 67","timestamp":"2020-04-06T11:45:24.718Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T11:45:29.856Z"}
+{"level":"info","message":"Create new client: 68","timestamp":"2020-04-06T11:45:30.369Z"}
+{"level":"info","message":"Create new client: 69","timestamp":"2020-04-06T11:45:30.405Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T11:46:21.504Z"}
+{"level":"info","message":"Create new client: 70","timestamp":"2020-04-06T11:46:22.441Z"}
+{"level":"error","message":"Can not find subscription with clientId 70 subscriptionId 1","timestamp":"2020-04-06T11:46:26.975Z"}
+{"level":"info","message":"Client disconnect: 70","timestamp":"2020-04-06T11:46:38.121Z"}
+{"level":"info","message":"Client disconnect: 69","timestamp":"2020-04-06T11:46:41.945Z"}
+{"level":"info","message":"Client disconnect: 68","timestamp":"2020-04-06T11:46:41.947Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T11:46:45.517Z"}
+{"level":"info","message":"Create new client: 71","timestamp":"2020-04-06T11:46:45.970Z"}
+{"level":"info","message":"Create new client: 72","timestamp":"2020-04-06T11:46:46.422Z"}
+{"level":"info","message":"Client disconnect: 71","timestamp":"2020-04-06T11:47:02.328Z"}
+{"level":"info","message":"Client disconnect: 72","timestamp":"2020-04-06T11:47:02.329Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T11:47:07.456Z"}
+{"level":"info","message":"Create new client: 73","timestamp":"2020-04-06T11:47:07.923Z"}
+{"level":"info","message":"Create new client: 74","timestamp":"2020-04-06T11:47:07.993Z"}
+{"level":"info","message":"Client disconnect: 74","timestamp":"2020-04-06T11:47:21.937Z"}
+{"level":"info","message":"Client disconnect: 73","timestamp":"2020-04-06T11:47:21.938Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T11:47:53.477Z"}
+{"level":"info","message":"Create new client: 75","timestamp":"2020-04-06T11:47:54.268Z"}
+{"level":"error","message":"Can not find subscription with clientId 75 subscriptionId 1","timestamp":"2020-04-06T11:53:56.712Z"}
+{"level":"info","message":"Client disconnect: 75","timestamp":"2020-04-06T11:54:00.436Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T11:54:01.680Z"}
+{"level":"info","message":"Create new client: 76","timestamp":"2020-04-06T11:54:01.712Z"}
+{"level":"info","message":"Create new client: 77","timestamp":"2020-04-06T11:54:01.816Z"}
+{"level":"info","message":"Client disconnect: 76","timestamp":"2020-04-06T11:54:42.906Z"}
+{"level":"info","message":"Client disconnect: 77","timestamp":"2020-04-06T11:54:42.907Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T11:54:44.686Z"}
+{"level":"info","message":"Create new client: 78","timestamp":"2020-04-06T11:54:44.826Z"}
+{"level":"info","message":"Create new client: 79","timestamp":"2020-04-06T11:54:44.838Z"}
+{"level":"info","message":"Client disconnect: 78","timestamp":"2020-04-06T11:55:06.781Z"}
+{"level":"info","message":"Client disconnect: 79","timestamp":"2020-04-06T11:55:06.786Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T11:55:14.430Z"}
+{"level":"info","message":"Create new client: 80","timestamp":"2020-04-06T11:55:14.799Z"}
+{"level":"info","message":"Create new client: 81","timestamp":"2020-04-06T11:55:14.911Z"}
+{"level":"info","message":"Client disconnect: 80","timestamp":"2020-04-06T12:56:52.293Z"}
+{"level":"info","message":"Client disconnect: 81","timestamp":"2020-04-06T12:56:52.293Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T12:56:53.983Z"}
+{"level":"info","message":"Create new client: 82","timestamp":"2020-04-06T12:56:54.041Z"}
+{"level":"info","message":"Create new client: 83","timestamp":"2020-04-06T12:56:54.077Z"}
+{"level":"info","message":"Client disconnect: 82","timestamp":"2020-04-06T12:57:41.758Z"}
+{"level":"info","message":"Client disconnect: 83","timestamp":"2020-04-06T12:57:41.759Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T12:57:43.316Z"}
+{"level":"info","message":"Create new client: 84","timestamp":"2020-04-06T12:57:43.473Z"}
+{"level":"info","message":"Create new client: 85","timestamp":"2020-04-06T12:57:43.517Z"}
+{"level":"info","message":"Client disconnect: 84","timestamp":"2020-04-06T12:58:16.598Z"}
+{"level":"info","message":"Client disconnect: 85","timestamp":"2020-04-06T12:58:16.599Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T12:58:18.309Z"}
+{"level":"info","message":"Create new client: 86","timestamp":"2020-04-06T12:58:18.351Z"}
+{"level":"info","message":"Create new client: 87","timestamp":"2020-04-06T12:58:18.353Z"}
+{"level":"info","message":"Client disconnect: 86","timestamp":"2020-04-06T12:59:17.587Z"}
+{"level":"info","message":"Client disconnect: 87","timestamp":"2020-04-06T12:59:17.588Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"level":"info","message":"Ran cloud function getCurrencyConversionRate for user undefined with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T12:59:19.484Z"}
+{"level":"info","message":"Create new client: 88","timestamp":"2020-04-06T12:59:22.450Z"}
+{"level":"info","message":"Client disconnect: 88","timestamp":"2020-04-06T12:59:58.974Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T13:00:01.131Z"}
+{"level":"info","message":"Create new client: 89","timestamp":"2020-04-06T13:00:01.132Z"}
+{"level":"info","message":"Create new client: 90","timestamp":"2020-04-06T13:00:01.160Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-06T13:01:31.314Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-06T13:01:31.323Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-06T13:01:31.323Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-06T13:01:31.327Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-06T13:01:31.821Z"}
+{"level":"info","message":"Create new client: 91","timestamp":"2020-04-06T13:01:31.896Z"}
+{"level":"info","message":"Create new client: 92","timestamp":"2020-04-06T13:01:31.899Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-06T13:01:31.974Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-06T13:01:31.978Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-06T13:01:31.999Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-06T13:01:32.079Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-06T13:01:32.087Z"}
+{"level":"info","message":"Client disconnect: 91","timestamp":"2020-04-06T13:02:04.433Z"}
+{"level":"info","message":"Client disconnect: 92","timestamp":"2020-04-06T13:02:04.434Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-06T13:02:12.161Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-06T13:02:12.173Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-06T13:02:12.194Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-06T13:02:12.207Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-06T13:02:13.450Z"}
+{"level":"info","message":"Create new client: 93","timestamp":"2020-04-06T13:02:13.459Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-06T13:02:13.664Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-06T13:02:13.782Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-06T13:02:13.927Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-06T13:02:14.020Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-06T13:02:14.054Z"}
+{"level":"info","message":"Client disconnect: 93","timestamp":"2020-04-06T13:02:17.300Z"}
+{"level":"info","message":"Client disconnect: 89","timestamp":"2020-04-06T13:02:20.665Z"}
+{"level":"info","message":"Client disconnect: 90","timestamp":"2020-04-06T13:02:20.667Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T13:02:30.115Z"}
+{"level":"info","message":"Create new client: 94","timestamp":"2020-04-06T13:02:30.551Z"}
+{"level":"info","message":"Create new client: 95","timestamp":"2020-04-06T13:02:30.581Z"}
+{"level":"info","message":"Client disconnect: 94","timestamp":"2020-04-06T13:03:47.168Z"}
+{"level":"info","message":"Client disconnect: 95","timestamp":"2020-04-06T13:03:47.170Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T13:04:22.924Z"}
+{"level":"info","message":"Create new client: 96","timestamp":"2020-04-06T13:04:23.391Z"}
+{"level":"error","message":"Can not find subscription with clientId 96 subscriptionId 1","timestamp":"2020-04-06T13:04:28.433Z"}
+{"level":"info","message":"Client disconnect: 96","timestamp":"2020-04-06T13:05:24.571Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T13:05:58.865Z"}
+{"level":"info","message":"Create new client: 97","timestamp":"2020-04-06T13:05:59.618Z"}
+{"level":"error","message":"Can not find subscription with clientId 97 subscriptionId 1","timestamp":"2020-04-06T13:06:08.608Z"}
+{"level":"info","message":"Client disconnect: 97","timestamp":"2020-04-06T13:06:46.374Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T13:07:00.321Z"}
+{"level":"info","message":"Create new client: 98","timestamp":"2020-04-06T13:07:00.959Z"}
+{"level":"info","message":"Create new client: 99","timestamp":"2020-04-06T13:07:00.963Z"}
+{"level":"info","message":"Client disconnect: 98","timestamp":"2020-04-06T13:07:33.252Z"}
+{"level":"info","message":"Client disconnect: 99","timestamp":"2020-04-06T13:07:33.254Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T13:07:42.185Z"}
+{"level":"info","message":"Create new client: 100","timestamp":"2020-04-06T13:07:42.797Z"}
+{"level":"info","message":"Create new client: 101","timestamp":"2020-04-06T13:07:42.940Z"}
+{"level":"info","message":"Client disconnect: 100","timestamp":"2020-04-06T13:08:06.264Z"}
+{"level":"info","message":"Client disconnect: 101","timestamp":"2020-04-06T13:08:06.266Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T13:08:13.431Z"}
+{"level":"info","message":"Create new client: 102","timestamp":"2020-04-06T13:08:13.971Z"}
+{"level":"info","message":"Create new client: 103","timestamp":"2020-04-06T13:08:14.134Z"}
+{"level":"info","message":"Client disconnect: 102","timestamp":"2020-04-06T13:08:54.814Z"}
+{"level":"info","message":"Client disconnect: 103","timestamp":"2020-04-06T13:08:54.816Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T13:09:04.588Z"}
+{"level":"info","message":"Create new client: 104","timestamp":"2020-04-06T13:09:05.006Z"}
+{"level":"info","message":"Create new client: 105","timestamp":"2020-04-06T13:09:05.136Z"}
+{"level":"info","message":"Client disconnect: 104","timestamp":"2020-04-06T13:12:05.543Z"}
+{"level":"info","message":"Client disconnect: 105","timestamp":"2020-04-06T13:12:05.546Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T13:12:11.241Z"}
+{"level":"info","message":"Create new client: 106","timestamp":"2020-04-06T13:12:11.655Z"}
+{"level":"info","message":"Create new client: 107","timestamp":"2020-04-06T13:12:11.782Z"}
+{"level":"info","message":"Client disconnect: 106","timestamp":"2020-04-06T13:15:17.774Z"}
+{"level":"info","message":"Client disconnect: 107","timestamp":"2020-04-06T13:15:17.776Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T13:15:25.942Z"}
+{"level":"info","message":"Create new client: 108","timestamp":"2020-04-06T13:15:26.438Z"}
+{"level":"info","message":"Create new client: 109","timestamp":"2020-04-06T13:15:26.441Z"}
+{"level":"info","message":"Client disconnect: 108","timestamp":"2020-04-06T13:17:22.424Z"}
+{"level":"info","message":"Client disconnect: 109","timestamp":"2020-04-06T13:17:22.427Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T13:17:28.113Z"}
+{"level":"info","message":"Create new client: 110","timestamp":"2020-04-06T13:17:28.605Z"}
+{"level":"info","message":"Create new client: 111","timestamp":"2020-04-06T13:17:28.717Z"}
+{"level":"info","message":"Client disconnect: 110","timestamp":"2020-04-06T13:19:04.447Z"}
+{"level":"info","message":"Client disconnect: 111","timestamp":"2020-04-06T13:19:04.449Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T13:19:10.727Z"}
+{"level":"info","message":"Create new client: 112","timestamp":"2020-04-06T13:19:10.801Z"}
+{"level":"info","message":"Create new client: 113","timestamp":"2020-04-06T13:19:10.898Z"}
+{"level":"info","message":"Client disconnect: 112","timestamp":"2020-04-06T13:20:34.691Z"}
+{"level":"info","message":"Client disconnect: 113","timestamp":"2020-04-06T13:20:34.693Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T13:21:27.107Z"}
+{"level":"info","message":"Create new client: 114","timestamp":"2020-04-06T13:21:27.940Z"}
+{"level":"error","message":"Can not find subscription with clientId 114 subscriptionId 1","timestamp":"2020-04-06T13:21:32.981Z"}
+{"level":"info","message":"Client disconnect: 114","timestamp":"2020-04-06T13:22:01.634Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T13:22:07.542Z"}
+{"level":"info","message":"Create new client: 115","timestamp":"2020-04-06T13:22:08.025Z"}
+{"level":"info","message":"Create new client: 116","timestamp":"2020-04-06T13:22:08.424Z"}
+{"level":"info","message":"Client disconnect: 115","timestamp":"2020-04-06T13:23:31.904Z"}
+{"level":"info","message":"Client disconnect: 116","timestamp":"2020-04-06T13:23:31.906Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T13:24:12.092Z"}
+{"level":"info","message":"Create new client: 117","timestamp":"2020-04-06T13:24:12.931Z"}
+{"level":"error","message":"Can not find subscription with clientId 117 subscriptionId 1","timestamp":"2020-04-06T13:24:21.901Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T13:27:02.797Z"}
+{"level":"info","message":"Create new client: 118","timestamp":"2020-04-06T13:27:03.493Z"}
+{"level":"error","message":"Can not find subscription with clientId 118 subscriptionId 1","timestamp":"2020-04-06T13:27:14.054Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T13:28:20.469Z"}
+{"level":"info","message":"Create new client: 119","timestamp":"2020-04-06T13:28:21.558Z"}
+{"level":"error","message":"Can not find subscription with clientId 119 subscriptionId 1","timestamp":"2020-04-06T13:28:30.206Z"}
+{"level":"info","message":"Client disconnect: 119","timestamp":"2020-04-06T13:31:00.474Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T13:31:07.496Z"}
+{"level":"info","message":"Create new client: 120","timestamp":"2020-04-06T13:31:07.716Z"}
+{"level":"info","message":"Create new client: 121","timestamp":"2020-04-06T13:31:07.862Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T13:33:26.902Z"}
+{"level":"info","message":"Client disconnect: 117","timestamp":"2020-04-06T13:33:27.181Z"}
+{"level":"info","message":"Create new client: 122","timestamp":"2020-04-06T13:33:27.716Z"}
+{"level":"info","message":"Client disconnect: 118","timestamp":"2020-04-06T13:33:27.956Z"}
+{"level":"info","message":"Client disconnect: 120","timestamp":"2020-04-06T13:33:28.384Z"}
+{"level":"info","message":"Client disconnect: 121","timestamp":"2020-04-06T13:33:28.422Z"}
+{"level":"error","message":"Can not find subscription with clientId 122 subscriptionId 1","timestamp":"2020-04-06T13:33:33.892Z"}
+{"level":"info","message":"Client disconnect: 122","timestamp":"2020-04-06T13:34:40.247Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T13:34:46.433Z"}
+{"level":"info","message":"Create new client: 123","timestamp":"2020-04-06T13:34:46.861Z"}
+{"level":"info","message":"Create new client: 124","timestamp":"2020-04-06T13:34:46.943Z"}
+{"level":"info","message":"Create new client: 125","timestamp":"2020-04-06T13:39:22.800Z"}
+{"level":"info","message":"Create new client: 126","timestamp":"2020-04-06T13:39:22.802Z"}
+{"level":"info","message":"Create new client: 127","timestamp":"2020-04-06T13:39:22.815Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T13:39:24.080Z"}
+{"level":"info","message":"Client disconnect: 127","timestamp":"2020-04-06T13:43:13.664Z"}
+{"level":"info","message":"Client disconnect: 126","timestamp":"2020-04-06T13:43:13.666Z"}
+{"level":"info","message":"Client disconnect: 125","timestamp":"2020-04-06T13:43:13.667Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T13:43:24.238Z"}
+{"level":"info","message":"Create new client: 128","timestamp":"2020-04-06T13:43:25.127Z"}
+{"level":"error","message":"Can not find subscription with clientId 128 subscriptionId 1","timestamp":"2020-04-06T13:43:42.426Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T13:50:24.979Z"}
+{"level":"info","message":"Create new client: 129","timestamp":"2020-04-06T13:50:25.896Z"}
+{"level":"error","message":"Can not find subscription with clientId 129 subscriptionId 1","timestamp":"2020-04-06T13:50:51.877Z"}
+{"level":"info","message":"Client disconnect: 123","timestamp":"2020-04-06T13:56:02.164Z"}
+{"level":"info","message":"Client disconnect: 124","timestamp":"2020-04-06T13:56:02.166Z"}
+{"level":"info","message":"Client disconnect: 128","timestamp":"2020-04-06T13:56:04.716Z"}
+{"level":"info","message":"Client disconnect: 129","timestamp":"2020-04-06T13:56:06.166Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T13:56:25.619Z"}
+{"level":"info","message":"Create new client: 130","timestamp":"2020-04-06T13:56:26.890Z"}
+{"level":"info","message":"Create new client: 131","timestamp":"2020-04-06T13:56:26.893Z"}
+{"level":"info","message":"Client disconnect: 130","timestamp":"2020-04-06T13:58:54.447Z"}
+{"level":"info","message":"Client disconnect: 131","timestamp":"2020-04-06T13:58:54.449Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T13:59:21.677Z"}
+{"level":"info","message":"Create new client: 132","timestamp":"2020-04-06T13:59:22.578Z"}
+{"level":"info","message":"Create new client: 133","timestamp":"2020-04-06T13:59:22.580Z"}
+{"level":"info","message":"Client disconnect: 132","timestamp":"2020-04-06T13:59:42.973Z"}
+{"level":"info","message":"Client disconnect: 133","timestamp":"2020-04-06T13:59:42.976Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T13:59:53.538Z"}
+{"level":"info","message":"Create new client: 134","timestamp":"2020-04-06T13:59:54.215Z"}
+{"level":"info","message":"Create new client: 135","timestamp":"2020-04-06T13:59:54.225Z"}
+{"level":"info","message":"Client disconnect: 134","timestamp":"2020-04-06T14:00:48.510Z"}
+{"level":"info","message":"Client disconnect: 135","timestamp":"2020-04-06T14:00:48.512Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T14:01:07.112Z"}
+{"level":"info","message":"Create new client: 136","timestamp":"2020-04-06T14:01:07.610Z"}
+{"level":"info","message":"Create new client: 137","timestamp":"2020-04-06T14:01:07.625Z"}
+{"level":"info","message":"Client disconnect: 136","timestamp":"2020-04-06T14:03:42.764Z"}
+{"level":"info","message":"Client disconnect: 137","timestamp":"2020-04-06T14:03:42.766Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T14:03:52.274Z"}
+{"level":"info","message":"Create new client: 138","timestamp":"2020-04-06T14:03:52.399Z"}
+{"level":"info","message":"Create new client: 139","timestamp":"2020-04-06T14:03:52.525Z"}
+{"level":"info","message":"Client disconnect: 138","timestamp":"2020-04-06T14:05:35.860Z"}
+{"level":"info","message":"Client disconnect: 139","timestamp":"2020-04-06T14:05:35.862Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T14:05:51.798Z"}
+{"level":"info","message":"Create new client: 140","timestamp":"2020-04-06T14:05:52.231Z"}
+{"level":"info","message":"Create new client: 141","timestamp":"2020-04-06T14:05:52.399Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T14:09:24.531Z"}
+{"level":"info","message":"Create new client: 142","timestamp":"2020-04-06T14:09:25.300Z"}
+{"level":"error","message":"Can not find subscription with clientId 142 subscriptionId 1","timestamp":"2020-04-06T14:10:32.779Z"}
+{"level":"info","message":"Client disconnect: 142","timestamp":"2020-04-06T14:14:58.517Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T14:15:05.899Z"}
+{"level":"info","message":"Create new client: 143","timestamp":"2020-04-06T14:15:06.843Z"}
+{"level":"error","message":"Can not find subscription with clientId 143 subscriptionId 1","timestamp":"2020-04-06T14:15:11.868Z"}
+{"level":"info","message":"Client disconnect: 140","timestamp":"2020-04-06T14:17:12.838Z"}
+{"level":"info","message":"Client disconnect: 141","timestamp":"2020-04-06T14:17:12.839Z"}
+{"level":"info","message":"Client disconnect: 143","timestamp":"2020-04-06T14:17:14.225Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T14:17:27.308Z"}
+{"level":"info","message":"Create new client: 144","timestamp":"2020-04-06T14:17:27.944Z"}
+{"level":"info","message":"Create new client: 145","timestamp":"2020-04-06T14:17:27.959Z"}
+{"level":"info","message":"Create new client: 146","timestamp":"2020-04-06T14:17:40.894Z"}
+{"level":"info","message":"Create new client: 147","timestamp":"2020-04-06T14:17:40.996Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T14:17:41.082Z"}
+{"level":"info","message":"Client disconnect: 144","timestamp":"2020-04-06T14:18:29.270Z"}
+{"level":"info","message":"Client disconnect: 145","timestamp":"2020-04-06T14:18:29.272Z"}
+{"level":"info","message":"Client disconnect: 146","timestamp":"2020-04-06T14:18:31.164Z"}
+{"level":"info","message":"Client disconnect: 147","timestamp":"2020-04-06T14:18:31.199Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T14:18:46.120Z"}
+{"level":"info","message":"Create new client: 148","timestamp":"2020-04-06T14:18:46.618Z"}
+{"level":"info","message":"Create new client: 149","timestamp":"2020-04-06T14:18:58.919Z"}
+{"level":"info","message":"Create new client: 150","timestamp":"2020-04-06T14:18:59.001Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T14:18:59.033Z"}
+{"level":"info","message":"Client disconnect: 148","timestamp":"2020-04-06T14:22:23.766Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T14:23:14.991Z"}
+{"level":"info","message":"Create new client: 151","timestamp":"2020-04-06T14:23:20.632Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T14:23:21.925Z"}
+{"level":"info","message":"Create new client: 152","timestamp":"2020-04-06T14:23:22.657Z"}
+{"level":"info","message":"Create new client: 153","timestamp":"2020-04-06T14:23:22.659Z"}
+{"level":"info","message":"Client disconnect: 152","timestamp":"2020-04-06T14:24:46.156Z"}
+{"level":"info","message":"Client disconnect: 153","timestamp":"2020-04-06T14:24:46.158Z"}
+{"functionName":"getCurrencyConversionRate","params":{},"user":"DEaw9FXHnS","level":"info","message":"Ran cloud function getCurrencyConversionRate for user DEaw9FXHnS with:\n  Input: {}\n  Result: \"Kein Upated nötig\"","timestamp":"2020-04-06T14:24:57.386Z"}
+{"level":"info","message":"Create new client: 154","timestamp":"2020-04-06T14:24:58.009Z"}
+{"level":"info","message":"Create new client: 155","timestamp":"2020-04-06T14:24:58.181Z"}
+{"level":"error","message":"Can not find subscription with clientId 151 subscriptionId 1","timestamp":"2020-04-06T14:28:40.581Z"}
+{"level":"info","message":"Client disconnect: 155","timestamp":"2020-04-06T14:40:38.029Z"}
+{"level":"info","message":"Client disconnect: 154","timestamp":"2020-04-06T14:40:38.031Z"}
+{"level":"info","message":"Client disconnect: 151","timestamp":"2020-04-06T14:40:38.033Z"}
+{"level":"info","message":"Client disconnect: 150","timestamp":"2020-04-06T14:40:38.052Z"}
+{"level":"info","message":"Client disconnect: 149","timestamp":"2020-04-06T14:40:38.053Z"}
+{"level":"info","message":"Create new client: 156","timestamp":"2020-04-06T14:40:38.892Z"}
+{"level":"info","message":"Create new client: 157","timestamp":"2020-04-06T14:40:38.913Z"}
+{"level":"info","message":"Create new client: 158","timestamp":"2020-04-06T14:40:38.932Z"}
+{"level":"info","message":"Create new client: 159","timestamp":"2020-04-06T14:40:39.890Z"}
+{"level":"info","message":"Create new client: 160","timestamp":"2020-04-06T14:40:39.954Z"}

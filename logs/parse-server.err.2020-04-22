@@ -1,0 +1,10 @@
+{"error":{"code":141,"message":"Invalid function: \"fa_data_user_stats\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"fa_data_user_stats\"' }","timestamp":"2020-04-22T06:59:20.984Z"}
+{"code":141,"message":"Invalid function: \"fa_data_user_stats\"","level":"error","timestamp":"2020-04-22T06:59:20.986Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-22T07:00:28.919Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-22T07:00:29.849Z"}
+{"level":"error","message":"Can not find subscription with clientId 4 subscriptionId 1","timestamp":"2020-04-22T07:12:01.952Z"}
+{"level":"error","message":"Can not find subscription with clientId 41 subscriptionId 1","timestamp":"2020-04-22T08:42:37.842Z"}
+{"level":"error","message":"Can not find subscription with clientId 41 subscriptionId 9","timestamp":"2020-04-22T08:42:49.274Z"}
+{"level":"error","message":"Can not find subscription with clientId 0 subscriptionId 15","timestamp":"2020-04-22T08:49:46.312Z"}
+{"level":"error","message":"Can not find subscription with clientId 1 subscriptionId 2","timestamp":"2020-04-22T08:49:49.811Z"}
+{"level":"error","message":"Can not find subscription with clientId 29 subscriptionId 1","timestamp":"2020-04-22T10:13:10.369Z"}

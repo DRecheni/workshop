@@ -1,0 +1,35 @@
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-02T07:27:52.631Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-02T07:27:52.633Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-02T07:27:52.635Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-02T07:27:52.636Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-02T07:27:52.688Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-02T07:27:52.727Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-02T07:27:52.757Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-02T07:27:52.794Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-02T07:27:52.795Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-02T07:27:52.795Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-02T07:27:56.286Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-02T07:27:56.287Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-02T07:27:56.300Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-02T07:27:56.303Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-02T07:27:56.304Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-02T07:27:56.306Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-02T07:27:57.236Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-02T07:27:59.390Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-02T07:28:02.185Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-02T07:39:41.826Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-02T07:39:41.827Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-02T07:39:41.828Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-06-02T07:39:55.966Z"}
+{"error":{"code":107,"message":"You cannot use [object Object] as a query parameter."},"level":"error","message":"Error generating response. ParseError {\n  code: 107,\n  message: 'You cannot use [object Object] as a query parameter.' }","timestamp":"2020-06-02T08:19:02.207Z"}
+{"code":107,"message":"You cannot use [object Object] as a query parameter.","level":"error","timestamp":"2020-06-02T08:19:02.207Z"}
+{"error":{"code":107,"message":"You cannot use [object Object] as a query parameter."},"level":"error","message":"Error generating response. ParseError {\n  code: 107,\n  message: 'You cannot use [object Object] as a query parameter.' }","timestamp":"2020-06-02T08:19:02.291Z"}
+{"code":107,"message":"You cannot use [object Object] as a query parameter.","level":"error","timestamp":"2020-06-02T08:19:02.292Z"}
+{"error":{"code":107,"message":"You cannot use [object Object] as a query parameter."},"level":"error","message":"Error generating response. ParseError {\n  code: 107,\n  message: 'You cannot use [object Object] as a query parameter.' }","timestamp":"2020-06-02T08:19:29.093Z"}
+{"code":107,"message":"You cannot use [object Object] as a query parameter.","level":"error","timestamp":"2020-06-02T08:19:29.094Z"}
+{"error":{"code":107,"message":"You cannot use [object Object] as a query parameter."},"level":"error","message":"Error generating response. ParseError {\n  code: 107,\n  message: 'You cannot use [object Object] as a query parameter.' }","timestamp":"2020-06-02T08:19:29.165Z"}
+{"code":107,"message":"You cannot use [object Object] as a query parameter.","level":"error","timestamp":"2020-06-02T08:19:29.165Z"}
+{"error":{"code":107,"message":"You cannot use [object Object] as a query parameter."},"level":"error","message":"Error generating response. ParseError {\n  code: 107,\n  message: 'You cannot use [object Object] as a query parameter.' }","timestamp":"2020-06-02T08:19:42.264Z"}
+{"code":107,"message":"You cannot use [object Object] as a query parameter.","level":"error","timestamp":"2020-06-02T08:19:42.265Z"}
+{"error":{"code":107,"message":"You cannot use [object Object] as a query parameter."},"level":"error","message":"Error generating response. ParseError {\n  code: 107,\n  message: 'You cannot use [object Object] as a query parameter.' }","timestamp":"2020-06-02T08:19:42.347Z"}
+{"code":107,"message":"You cannot use [object Object] as a query parameter.","level":"error","timestamp":"2020-06-02T08:19:42.348Z"}

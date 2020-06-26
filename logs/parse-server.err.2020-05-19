@@ -1,0 +1,8 @@
+{"functionName":"addLastRequestToPerson","error":{"code":141,"message":{"code":101,"message":"Object not found."}},"params":{},"user":"DEaw9FXHnS","level":"error","message":"Failed running cloud function addLastRequestToPerson for user DEaw9FXHnS with:\n  Input: {}\n  Error: {\"code\":141,\"message\":{\"code\":101,\"message\":\"Object not found.\"}}","timestamp":"2020-05-19T07:39:08.917Z"}
+{"error":{"code":141,"message":{"code":101,"message":"Object not found."}},"level":"error","message":"Error generating response. ParseError {\n  code: 141,\n  message: ParseError { code: 101, message: 'Object not found.' } }","timestamp":"2020-05-19T07:39:08.918Z"}
+{"code":141,"message":"ParseError { code: 101, message: 'Object not found.' }","level":"error","timestamp":"2020-05-19T07:39:08.919Z"}
+{"level":"error","message":"Can not find subscription with clientId 89 subscriptionId 1","timestamp":"2020-05-19T11:15:16.194Z"}
+{"level":"error","message":"Can not find subscription with clientId 101 subscriptionId 1","timestamp":"2020-05-19T11:31:17.922Z"}
+{"level":"error","message":"Can not find subscription with clientId 322 subscriptionId 1","timestamp":"2020-05-19T14:16:54.196Z"}
+{"level":"error","message":"Can not find subscription with clientId 337 subscriptionId 1","timestamp":"2020-05-19T14:27:14.312Z"}
+{"level":"error","message":"Can not find subscription with clientId 362 subscriptionId 1","timestamp":"2020-05-19T14:49:30.608Z"}

@@ -1,0 +1,52 @@
+{"level":"error","message":"Can not find subscription with clientId 242 subscriptionId 1","timestamp":"2020-04-06T08:16:56.130Z"}
+{"level":"error","message":"Can not find subscription with clientId 243 subscriptionId 1","timestamp":"2020-04-06T08:19:14.124Z"}
+{"level":"error","message":"Can not find subscription with clientId 244 subscriptionId 1","timestamp":"2020-04-06T08:23:28.873Z"}
+{"level":"error","message":"Can not find subscription with clientId 245 subscriptionId 1","timestamp":"2020-04-06T08:30:52.735Z"}
+{"level":"error","message":"Can not find subscription with clientId 246 subscriptionId 1","timestamp":"2020-04-06T08:34:16.832Z"}
+{"level":"error","message":"Can not find subscription with clientId 264 subscriptionId 1","timestamp":"2020-04-06T08:47:27.840Z"}
+{"level":"error","message":"Can not find subscription with clientId 272 subscriptionId 1","timestamp":"2020-04-06T08:53:13.159Z"}
+{"level":"error","message":"Can not find subscription with clientId 275 subscriptionId 1","timestamp":"2020-04-06T08:59:00.425Z"}
+{"level":"error","message":"Can not find subscription with clientId 284 subscriptionId 1","timestamp":"2020-04-06T09:09:06.390Z"}
+{"level":"error","message":"Can not find subscription with clientId 287 subscriptionId 1","timestamp":"2020-04-06T09:10:44.623Z"}
+{"level":"error","message":"Can not find subscription with clientId 288 subscriptionId 1","timestamp":"2020-04-06T09:16:54.505Z"}
+{"level":"error","message":"Can not find subscription with clientId 291 subscriptionId 1","timestamp":"2020-04-06T09:23:02.413Z"}
+{"level":"error","message":"Can not find subscription with clientId 2 subscriptionId 1","timestamp":"2020-04-06T10:01:59.718Z"}
+{"level":"error","message":"Can not find subscription with clientId 35 subscriptionId 1","timestamp":"2020-04-06T11:12:13.523Z"}
+{"level":"error","message":"Can not find subscription with clientId 36 subscriptionId 1","timestamp":"2020-04-06T11:14:44.643Z"}
+{"level":"error","message":"Can not find subscription with clientId 37 subscriptionId 1","timestamp":"2020-04-06T11:17:19.913Z"}
+{"level":"error","message":"Can not find subscription with clientId 58 subscriptionId 1","timestamp":"2020-04-06T11:38:34.208Z"}
+{"level":"error","message":"Can not find subscription with clientId 63 subscriptionId 1","timestamp":"2020-04-06T11:42:43.187Z"}
+{"level":"error","message":"Can not find subscription with clientId 70 subscriptionId 1","timestamp":"2020-04-06T11:46:26.976Z"}
+{"level":"error","message":"Can not find subscription with clientId 75 subscriptionId 1","timestamp":"2020-04-06T11:53:56.712Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-06T13:01:31.314Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-06T13:01:31.323Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-06T13:01:31.323Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-06T13:01:31.327Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-06T13:01:31.821Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-06T13:01:31.974Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-06T13:01:31.978Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-06T13:01:31.999Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-06T13:01:32.079Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-06T13:01:32.088Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-06T13:02:12.161Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-06T13:02:12.174Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-06T13:02:12.195Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-06T13:02:12.229Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-06T13:02:13.451Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-06T13:02:13.664Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-06T13:02:13.782Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-06T13:02:13.928Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-06T13:02:14.020Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-04-06T13:02:14.063Z"}
+{"level":"error","message":"Can not find subscription with clientId 96 subscriptionId 1","timestamp":"2020-04-06T13:04:28.433Z"}
+{"level":"error","message":"Can not find subscription with clientId 97 subscriptionId 1","timestamp":"2020-04-06T13:06:08.608Z"}
+{"level":"error","message":"Can not find subscription with clientId 114 subscriptionId 1","timestamp":"2020-04-06T13:21:32.981Z"}
+{"level":"error","message":"Can not find subscription with clientId 117 subscriptionId 1","timestamp":"2020-04-06T13:24:21.901Z"}
+{"level":"error","message":"Can not find subscription with clientId 118 subscriptionId 1","timestamp":"2020-04-06T13:27:14.055Z"}
+{"level":"error","message":"Can not find subscription with clientId 119 subscriptionId 1","timestamp":"2020-04-06T13:28:30.207Z"}
+{"level":"error","message":"Can not find subscription with clientId 122 subscriptionId 1","timestamp":"2020-04-06T13:33:33.892Z"}
+{"level":"error","message":"Can not find subscription with clientId 128 subscriptionId 1","timestamp":"2020-04-06T13:43:42.427Z"}
+{"level":"error","message":"Can not find subscription with clientId 129 subscriptionId 1","timestamp":"2020-04-06T13:50:51.877Z"}
+{"level":"error","message":"Can not find subscription with clientId 142 subscriptionId 1","timestamp":"2020-04-06T14:10:32.779Z"}
+{"level":"error","message":"Can not find subscription with clientId 143 subscriptionId 1","timestamp":"2020-04-06T14:15:11.869Z"}
+{"level":"error","message":"Can not find subscription with clientId 151 subscriptionId 1","timestamp":"2020-04-06T14:28:40.581Z"}

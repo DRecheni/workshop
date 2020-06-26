@@ -1,0 +1,14 @@
+{"functionName":"fa_data_user_stats","error":{"code":141,"message":"User not found"},"params":{"userId":"zlxxdGm3B8"},"user":"DEaw9FXHnS","level":"error","message":"Failed running cloud function fa_data_user_stats for user DEaw9FXHnS with:\n  Input: {\"userId\":\"zlxxdGm3B8\"}\n  Error: {\"code\":141,\"message\":\"User not found\"}","timestamp":"2020-04-09T09:52:35.913Z"}
+{"error":{"code":141,"message":"User not found"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'User not found' }","timestamp":"2020-04-09T09:52:35.914Z"}
+{"code":141,"message":"User not found","level":"error","timestamp":"2020-04-09T09:52:35.915Z"}
+{"level":"error","message":"Can not find subscription with clientId 20 subscriptionId 1","timestamp":"2020-04-09T10:09:19.757Z"}
+{"level":"error","message":"Can not find subscription with clientId 32 subscriptionId 1","timestamp":"2020-04-09T10:12:52.561Z"}
+{"level":"error","message":"Can not find subscription with clientId 64 subscriptionId 1","timestamp":"2020-04-09T10:20:11.632Z"}
+{"error":{"code":101,"message":"Invalid username/password."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Invalid username/password.' }","timestamp":"2020-04-09T10:28:45.586Z"}
+{"code":101,"message":"Invalid username/password.","level":"error","timestamp":"2020-04-09T10:28:45.586Z"}
+{"error":{"code":101,"message":"Invalid username/password."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Invalid username/password.' }","timestamp":"2020-04-09T10:28:52.085Z"}
+{"code":101,"message":"Invalid username/password.","level":"error","timestamp":"2020-04-09T10:28:52.085Z"}
+{"level":"error","message":"Can not find subscription with clientId 92 subscriptionId 1","timestamp":"2020-04-09T10:34:54.153Z"}
+{"functionName":"fa_data_user_stats","error":{"code":141,"message":"User not found"},"params":{"userId":"zlxxdGm3B8"},"user":"DEaw9FXHnS","level":"error","message":"Failed running cloud function fa_data_user_stats for user DEaw9FXHnS with:\n  Input: {\"userId\":\"zlxxdGm3B8\"}\n  Error: {\"code\":141,\"message\":\"User not found\"}","timestamp":"2020-04-09T12:28:02.590Z"}
+{"error":{"code":141,"message":"User not found"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'User not found' }","timestamp":"2020-04-09T12:28:02.597Z"}
+{"code":141,"message":"User not found","level":"error","timestamp":"2020-04-09T12:28:02.605Z"}

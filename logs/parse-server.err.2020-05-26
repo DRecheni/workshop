@@ -1,0 +1,5 @@
+{"level":"error","message":"Can not find subscription with clientId 3 subscriptionId 1","timestamp":"2020-05-26T08:04:01.515Z"}
+{"functionName":"fa_data_get_caller_stats","error":{"code":141,"message":"User not found"},"params":{},"user":"DEaw9FXHnS","level":"error","message":"Failed running cloud function fa_data_get_caller_stats for user DEaw9FXHnS with:\n  Input: {}\n  Error: {\"code\":141,\"message\":\"User not found\"}","timestamp":"2020-05-26T08:45:01.808Z"}
+{"error":{"code":141,"message":"User not found"},"level":"error","message":"Error generating response. ParseError { code: 141, message: 'User not found' }","timestamp":"2020-05-26T08:45:01.809Z"}
+{"code":141,"message":"User not found","level":"error","timestamp":"2020-05-26T08:45:01.810Z"}
+{"level":"error","message":"Can not find subscription with clientId 60 subscriptionId 1","timestamp":"2020-05-26T13:19:17.723Z"}

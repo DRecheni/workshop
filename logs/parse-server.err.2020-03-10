@@ -1,0 +1,41 @@
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-03-10T08:50:44.875Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-03-10T08:50:44.876Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-03-10T08:50:44.877Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-03-10T08:50:52.468Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-03-10T08:50:52.469Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-03-10T08:50:52.470Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-03-10T08:50:52.472Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-03-10T08:50:52.532Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-03-10T08:50:52.541Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-03-10T08:50:52.543Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-03-10T08:50:52.575Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-03-10T08:50:52.576Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-03-10T08:50:52.577Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-03-10T08:52:34.363Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-03-10T08:52:34.364Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-03-10T08:52:40.792Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-03-10T08:52:40.794Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-03-10T08:52:40.796Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-03-10T08:52:40.799Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-03-10T08:52:40.902Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-03-10T08:52:40.909Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-03-10T08:52:40.909Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-03-10T08:52:40.916Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-03-10T08:52:40.928Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-03-10T08:52:40.933Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-03-10T08:54:20.220Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-03-10T08:54:20.220Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-03-10T08:54:20.221Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-03-10T08:54:20.228Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-03-10T08:54:20.315Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-03-10T08:54:20.325Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-03-10T08:54:20.327Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-03-10T08:54:20.337Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-03-10T08:54:20.344Z"}
+{"code":209,"message":"invalid session token","level":"error","timestamp":"2020-03-10T08:54:20.345Z"}
+{"error":{"code":101,"message":"Invalid username/password."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Invalid username/password.' }","timestamp":"2020-03-10T08:55:10.953Z"}
+{"code":101,"message":"Invalid username/password.","level":"error","timestamp":"2020-03-10T08:55:10.954Z"}
+{"error":{"code":101,"message":"Invalid username/password."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Invalid username/password.' }","timestamp":"2020-03-10T08:55:40.431Z"}
+{"code":101,"message":"Invalid username/password.","level":"error","timestamp":"2020-03-10T08:55:40.431Z"}
+{"level":"error","message":"Can not find subscription with clientId 3 subscriptionId 9","timestamp":"2020-03-10T08:58:28.887Z"}
+{"level":"error","message":"Can not find subscription with clientId 5 subscriptionId 2","timestamp":"2020-03-10T09:18:51.626Z"}

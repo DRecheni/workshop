@@ -1,0 +1,4 @@
+{"error":{"code":141,"message":"Invalid function: \"fa_client_add_validate_vat\""},"level":"error","message":"Error handling request: ParseError {\n  code: 141,\n  message: 'Invalid function: \"fa_client_add_validate_vat\"' }","timestamp":"2020-03-04T09:09:42.012Z"}
+{"code":141,"message":"Invalid function: \"fa_client_add_validate_vat\"","level":"error","timestamp":"2020-03-04T09:09:42.013Z"}
+{"error":{"code":141,"message":"Invalid function: \"fa_client_add_validate_vat\""},"level":"error","message":"Error handling request: ParseError {\n  code: 141,\n  message: 'Invalid function: \"fa_client_add_validate_vat\"' }","timestamp":"2020-03-04T09:10:10.772Z"}
+{"code":141,"message":"Invalid function: \"fa_client_add_validate_vat\"","level":"error","timestamp":"2020-03-04T09:10:10.773Z"}
